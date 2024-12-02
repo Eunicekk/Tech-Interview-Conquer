@@ -6,17 +6,17 @@ Tech-Interview-Conquer는 개발자 기술 면접 준비를 위한 종합 자료
 ## 👪 Collaborator
 
 <p>
-  <a href="https://github.com/liarreez">
-    <img src="https://github.com/liarreez.png?size=100" alt="liarreez" style="border-radius: 50%">
-  </a>
+<!--   <a href="https://github.com/liarreez">
+    <img src="https://github.com/liarreez.png?size=10" alt="liarreez" style="border-radius: 50%">
+  </a> -->
   <a href="https://github.com/EH05">
-    <img src="https://github.com/EH05.png?size=100" alt="torvalds" style="border-radius: 50%">
+    <img src="https://github.com/EH05.png?size=100" alt="EH05" style="border-radius: 50%">
   </a>
   <a href="https://github.com/Lee9Bin">
-    <img src="https://github.com/Lee9Bin.png?size=100" alt="dhh" style="border-radius: 50%;">
+    <img src="https://github.com/Lee9Bin.png?size=100" alt="Lee9Bin" style="border-radius: 50%;">
   </a>
   <a href="https://github.com/5ooyeon">
-    <img src="https://github.com/5ooyeon.png?size=100" alt="dhh" style="border-radius: 50%;">
+    <img src="https://github.com/5ooyeon.png?size=100" alt="5ooyeon" style="border-radius: 50%;">
   </a>
 </p>
 
