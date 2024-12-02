@@ -29,7 +29,7 @@ Tech-Interview-Conquer는 개발자 기술 면접 준비를 위한 종합 자료
 #### File naming rule : 주제.md
 ex) Interpreted Language vs Compiled Language.md
 
-#### Text writng rule : <details>와 <summary>를 활용하여 질문을 열었을 때 해당 내용의 답이 나오도록 작성    
+#### Text writng rule : `<details>`와 `<summary>`를 활용하여 질문을 열었을 때 해당 내용의 답이 나오도록 작성    
 하나의 글에 여러 질문 작성 가능
 
 ex)
