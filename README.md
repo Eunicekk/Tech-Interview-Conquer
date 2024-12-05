@@ -20,18 +20,36 @@ Tech-Interview-Conquer는 개발자 기술 면접 준비를 위한 종합 자료
   </a>
 </p>
 
-#### How to write
-1. 주제에 맞는 다양한 자료 학습 후 정리
-2. 정리 방식은 질문 + 답안 형태로 작성
+#### How to
+##### 1. 주제 선정
+   - 1주일에 교재 15페이지(120/8) 맡음
+   - 자유 주제 1개 선정(선착순, 빈 파일 우선 올리고 학습 후 수정)
+   - 자유 주제는 Java, Spring, JS, React 등 본인이 주로 사용하는 언어와 프레임워크 권장
+##### 2. 학습 방법
+   - 1일 24페이지(120/5) 독서(권장) or 일정 맞춰 1주일에 120페이지 독서 or 본인 파트 독서 + 정리 내용 학습
+   - 본인 파트를 질문 + 답 형태로 정리(Writng rule 참고하여 자유 양식)
+   - 시간이 날 때마다 정리 내용 활용하여 반복 학습
+##### 3. 모의 면접
+   - 2대2 면접
+   - 면접 질문 2개 정해오기
+   - 나머지 인원은 피드백 작성 후 해당 인원에게 면접 종료 후 전달
+   - 모든 인원이 면접관 및 면접자 역할 수행
 
+ ex)     
+ A, B, C, D, E, F, G, H 인원이 있을때
+ 면접관 A,B 면접자 C,D 진행 => 면접관 C,D 면접자 A,B 진행(E, F, G, H는 피드백 작성)
+##### 4. 필수 과제
+   - 담당 파트 + 자유 주제 정리, 담당 파트 부분도 구글링 및 ChatGPT 등으로 추가 학습 후 정리 권장
+   - 월요일 모의 CS 면접(디스코드)
 <br>
 
-#### File naming rule : 주제.md
-ex) Interpreted Language vs Compiled Language.md
+#### Rule    
 
-#### Text writng rule : `<details>`와 `<summary>`를 활용하여 질문을 열었을 때 해당 내용의 답이 나오도록 작성    
-하나의 글에 여러 질문 작성 가능
-
+##### File naming rule : 주제.md    
+ex) Interpreted Language vs Compiled Language.md    
+<br>
+##### Writng rule : `<details>`와 `<summary>`를 활용하여 질문을 열었을 때 해당 내용의 답이 나오도록 작성    
+하나의 글에 여러 질문 작성 가능    
 ex)
 <details>
   <summary>인터프리터 언어와 컴파일 언어에 대해서 설명해 주세요</summary>
@@ -58,11 +76,16 @@ ex)
    컴파일과 인터프리터 방식을 결합한 방식의 언어    
    대표적으로 Java가 있으며 소스 코드를 바이트 코드로 변환할 때는 컴파일 방식을 바이트 코드를 JVM에서 실행될 때는 인터프리터 방식을 사용
 </details>
+<br>
 
-#### Commit convention rule : 날짜-[주제]-내용-상태
+##### Commit convention rule : 날짜-[주제]-내용-상태   
+
 ex) 2019-10-14 [Algorithm] Sort Add/Update/Delete
 
 ## 📚 Reference
+
+### 운영체제    
+- 운영체제 아주 쉬운 세가지 이야기(OSTEP) : https://pages.cs.wisc.edu/~remzi/OSTEP/Korean/
 
 ## 🔖 Contents
 
