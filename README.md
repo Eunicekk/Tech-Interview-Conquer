@@ -6,17 +6,29 @@ Tech-Interview-Conquer는 개발자 기술 면접 준비를 위한 종합 자료
 ## 👪 Collaborator
 
 <p>
-<!--   <a href="https://github.com/liarreez">
-    <img src="https://github.com/liarreez.png?size=10" alt="liarreez" style="border-radius: 50%">
-  </a> -->
+<a href="https://github.com/liarreez">
+    <img src="https://github.com/liarreez.png" alt="hyb26" style="width: 100px; height: 100px; border-radius: 50%;">
+  </a>
   <a href="https://github.com/EH05">
-    <img src="https://github.com/EH05.png?size=100" alt="EH05" style="border-radius: 50%">
+    <img src="https://github.com/EH05.png" alt="EH05" style="width: 100px; height: 100px; border-radius: 50%;">
   </a>
   <a href="https://github.com/Lee9Bin">
-    <img src="https://github.com/Lee9Bin.png?size=100" alt="Lee9Bin" style="border-radius: 50%;">
+    <img src="https://github.com/Lee9Bin.png" alt="Lee9Bin" style="width: 100px; height: 100px; border-radius: 50%;">
   </a>
   <a href="https://github.com/5ooyeon">
-    <img src="https://github.com/5ooyeon.png?size=100" alt="5ooyeon" style="border-radius: 50%;">
+    <img src="https://github.com/5ooyeon.png" alt="5ooyeon" style="width: 100px; height: 100px; border-radius: 50%;">
+  </a>
+    <a href="https://github.com/hyb26">
+    <img src="https://github.com/hyb26.png" alt="hyb26" style="width: 100px; height: 100px; border-radius: 50%;">
+  </a>
+  <a href="https://github.com/goldenkiwi-hyeuk">
+    <img src="https://github.com/goldenkiwi-hyeuk.png" alt="goldenkiwi-hyeuk" style="width: 100px; height: 100px; border-radius: 50%;">
+  </a>
+        <a href="https://github.com/ide05484">
+    <img src="https://github.com/ide05484.png" alt="ide05484" style="width: 100px; height: 100px; border-radius: 50%;">
+  </a>
+        <a href="https://github.com/Eunicekk">
+    <img src="https://github.com/Eunicekk.png" alt="Eunicekk" style="width: 100px; height: 100px; border-radius: 50%;">
   </a>
 </p>
 
