@@ -103,4 +103,44 @@ ex) 2024-12-01 [Programming Language] Interpreted Language vs Compiled Language 
 
 ## 🔖 Contents
 
+### 언어
 
+---
+
+#### Java
+- [Java의 장단점](https://github.com/liarreez/Tech-Interview-Conquer/blob/main/Language/Java/Java.md)
+- [JVM](https://github.com/liarreez/Tech-Interview-Conquer/blob/main/Language/Java/%EC%9E%90%EB%B0%94%20%EC%8B%A4%ED%96%89%20%EA%B3%BC%EC%A0%95%20%EB%B0%8F%20JVM.md)
+- [가비지 컬렉션](https://github.com/liarreez/Tech-Interview-Conquer/blob/main/Language/Java/Garbage%20Collection.md)
+- [객체지향](https://github.com/liarreez/Tech-Interview-Conquer/blob/main/Language/Java/%EA%B0%9D%EC%B2%B4%EC%A7%80%ED%96%A5.md)
+- [클래스, 객체, 인스턴스](https://github.com/liarreez/Tech-Interview-Conquer/blob/main/Language/Java/%ED%81%B4%EB%9E%98%EC%8A%A4%2C%20%EA%B0%9D%EC%B2%B4%2C%20%EC%9D%B8%EC%8A%A4%ED%84%B4%EC%8A%A4.md)
+- [추상클래스 vs 인터페이스](https://github.com/liarreez/Tech-Interview-Conquer/blob/main/Language/Java/%EC%B6%94%EC%83%81%ED%81%B4%EB%9E%98%EC%8A%A4%20vs%20%EC%9D%B8%ED%84%B0%ED%8E%98%EC%9D%B4%EC%8A%A4.md)
+- [컬렉션 프레임워크](https://github.com/liarreez/Tech-Interview-Conquer/blob/main/Language/Java/Collection%20Framework.md)
+- [Static](https://github.com/liarreez/Tech-Interview-Conquer/blob/main/Language/Java/Static.md)
+- [오버로딩 vs 오버라이딩](https://github.com/liarreez/Tech-Interview-Conquer/blob/main/Language/Java/Overloading%20vs%20Overriding.md)
+- [String vs StringBuffer vs StringBuilder](https://github.com/liarreez/Tech-Interview-Conquer/blob/main/Language/Java/String%20vs%20StringBuffer%20vs%20StringBuilder.md)
+
+### 운영체제
+
+---
+
+- [프로세스](https://github.com/liarreez/Tech-Interview-Conquer/blob/main/Operating%20System/Process.md)
+- [프로세스 시스템 콜](https://github.com/liarreez/Tech-Interview-Conquer/blob/main/Operating%20System/CPU%20API.md)
+- [제한적 직접 실행](https://github.com/liarreez/Tech-Interview-Conquer/blob/main/Operating%20System/Limited%20Direct%20Execution.md)
+- [CPU 스케줄링](https://github.com/liarreez/Tech-Interview-Conquer/blob/main/Operating%20System/Scheduling.md)
+- [멀티 레벨 피드백 큐](https://github.com/liarreez/Tech-Interview-Conquer/blob/main/Operating%20System/MLFQ.md)
+- [비례 배분 스케줄링](https://github.com/liarreez/Tech-Interview-Conquer/blob/main/Operating%20System/%EB%B9%84%EB%A1%80%20%EB%B0%B0%EB%B6%84.md)
+- [멀티 프로세서 스케줄링](https://github.com/liarreez/Tech-Interview-Conquer/blob/main/Operating%20System/Multiprocessor%20Scheduling.md)
+- [CPU 가상화](https://github.com/liarreez/Tech-Interview-Conquer/blob/main/Operating%20System/CPU%20Virtualization.md)
+- [가상 메모리](https://github.com/liarreez/Tech-Interview-Conquer/blob/main/Operating%20System/Virtual%20Memory.md)
+- [주소 변환](https://github.com/liarreez/Tech-Interview-Conquer/blob/main/Operating%20System/Address%20Traslation.md)
+
+<br>
+
+### WEB
+
+---
+
+- [HTTP vs HTTPS](https://github.com/liarreez/Tech-Interview-Conquer/blob/main/Web/HTTP%20vs%20HTTPS.md)
+- [REST API](https://github.com/liarreez/Tech-Interview-Conquer/blob/main/Web/REST%20API.md)
+- [WEB 1.0/2.0/3.0](https://github.com/liarreez/Tech-Interview-Conquer/blob/main/Web/Web1.0%20vs%20Web2.0%20vs%20Web3.0.md)
+- [라이브러리 vs 프레임워크](https://github.com/liarreez/Tech-Interview-Conquer/blob/main/Web/Library%20vs%20Framework.md)
