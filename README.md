@@ -148,6 +148,7 @@ ex) 2024-12-01 [Programming Language] Interpreted Language vs Compiled Language 
 - [TLB](https://github.com/liarreez/Tech-Interview-Conquer/blob/main/Operating%20System/vm-tlbs.md)
 - [더 작은 페이징 테이블](https://github.com/liarreez/Tech-Interview-Conquer/blob/main/Operating%20System/VM%20Smalltables.md)
 - [물리 메모리 크기 극복 - 메커니즘](https://github.com/liarreez/Tech-Interview-Conquer/blob/main/Operating%20System/%EB%AC%BC%EB%A6%AC%20%EB%A9%94%EB%AA%A8%EB%A6%AC%20%ED%81%AC%EA%B8%B0%EC%9D%98%20%EA%B7%B9%EB%B3%B5%3A%20%EB%A9%94%EC%BB%A4%EB%8B%88%EC%A6%98.md)
+- [물리 메모리 크기 극복 - 정책](https://github.com/liarreez/Tech-Interview-Conquer/blob/main/Operating%20System/%EB%AC%BC%EB%A6%AC%20%EB%A9%94%EB%AA%A8%EB%A6%AC%20%ED%81%AC%EA%B8%B0%EC%9D%98%20%EA%B7%B9%EB%B3%B5%3A%20%EC%A0%95%EC%B1%85.md)
 - [스레드](https://github.com/liarreez/Tech-Interview-Conquer/blob/main/Operating%20System/Threads.md)
 - [VAX&VMS](https://github.com/liarreez/Tech-Interview-Conquer/blob/main/Operating%20System/VAX%26VMS%20Virtual%20Memory%20System.md)
 
@@ -159,6 +160,7 @@ ex) 2024-12-01 [Programming Language] Interpreted Language vs Compiled Language 
 
 - [HTTP vs HTTPS](https://github.com/liarreez/Tech-Interview-Conquer/blob/main/Web/HTTP%20vs%20HTTPS.md)
 - [REST API](https://github.com/liarreez/Tech-Interview-Conquer/blob/main/Web/REST%20API.md)
+- [Axios & Fetch](https://github.com/liarreez/Tech-Interview-Conquer/blob/main/Web/Axios%20vs%20Fetch.md)
 - [웹 브라우저 렌더링](https://github.com/liarreez/Tech-Interview-Conquer/blob/main/Web/%EC%9B%B9%20%EB%B8%8C%EB%9D%BC%EC%9A%B0%EC%A0%80%20%EB%A0%8C%EB%8D%94%EB%A7%81%20%EA%B3%BC%EC%A0%95.md)
 - [웹 표준 & 웹 접근성](https://github.com/liarreez/Tech-Interview-Conquer/blob/main/Web/Web%20Standard%20%26%20Web%20Accessibility.md)
 - [WEB 1.0/2.0/3.0](https://github.com/liarreez/Tech-Interview-Conquer/blob/main/Web/Web1.0%20vs%20Web2.0%20vs%20Web3.0.md)
