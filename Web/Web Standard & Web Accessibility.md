@@ -5,8 +5,6 @@
   * 웹 표준은 웹에서 사용되는 기술들의 표준화를 의미한다. 즉, 웹 사이트를 구성하는 HTML, CSS, JavaScript 등의 언어들이 표준화된 방식으로 작성되어야 한다는 것이다. 쉽게 말하면 사용자가 어떤 브라우저나 기기를 사용하더라도 홈페이지 화면을 동일하게 볼 수 있도록 하는 것이 웹 표준인 것이다.
 </details>
 
-<br>
-
 <details>
   <summary><strong>웹 표준을 고려하여 작성하였을 때의 장점은 무엇이 있나요?</strong></summary>
 
@@ -36,6 +34,8 @@
   ### 인코딩 선언
   * 모든 HTML 문서는 'uft-8'을 기본 인코딩으로 사용한다.
 </details>
+
+<hr>
 
 <details>
   <summary><strong>웹 접근성(Web Accessibility)은 무엇인가요?</strong></summary>
