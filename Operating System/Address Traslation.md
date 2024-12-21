@@ -1,5 +1,5 @@
 <details>
-  <summary>동적 재배치는 어떻게 이루어지나요?</summary>
+  <summary><strong>동적 재배치는 어떻게 이루어지나요?</strong></summary>
 
 <br>
 
@@ -19,7 +19,7 @@
 <br>
 
 <details>
-  <summary>하드웨어와 운영체제의 요구사항은 어떻게 다른가요?</summary>
+  <summary><strong>하드웨어와 운영체제의 요구사항은 어떻게 다른가요?</strong></summary>
 
 <br>
 
