@@ -119,6 +119,15 @@ ex) 2024-12-01 [Programming Language] Interpreted Language vs Compiled Language 
 - [오버로딩 vs 오버라이딩](https://github.com/liarreez/Tech-Interview-Conquer/blob/main/Language/Java/Overloading%20vs%20Overriding.md)
 - [String vs StringBuffer vs StringBuilder](https://github.com/liarreez/Tech-Interview-Conquer/blob/main/Language/Java/String%20vs%20StringBuffer%20vs%20StringBuilder.md)
 
+### 프레임워크
+
+---
+
+- [라이브러리 vs 프레임워크](https://github.com/liarreez/Tech-Interview-Conquer/blob/main/Framework/Library%20vs%20Framework.md)
+
+#### Spring
+- [Spring vs Spring Boot](https://github.com/liarreez/Tech-Interview-Conquer/blob/main/Framework/Spring/Spring%20vs%20Spring%20Boot.md)
+
 ### 운영체제
 
 ---
@@ -133,6 +142,14 @@ ex) 2024-12-01 [Programming Language] Interpreted Language vs Compiled Language 
 - [CPU 가상화](https://github.com/liarreez/Tech-Interview-Conquer/blob/main/Operating%20System/CPU%20Virtualization.md)
 - [가상 메모리](https://github.com/liarreez/Tech-Interview-Conquer/blob/main/Operating%20System/Virtual%20Memory.md)
 - [주소 변환](https://github.com/liarreez/Tech-Interview-Conquer/blob/main/Operating%20System/Address%20Traslation.md)
+- [세그멘테이션](https://github.com/liarreez/Tech-Interview-Conquer/blob/main/Operating%20System/Segmentation.md)
+- [메모리 빈 공간 관리](https://github.com/liarreez/Tech-Interview-Conquer/blob/main/Operating%20System/%EB%B9%88%20%EA%B3%B5%EA%B0%84%20%EA%B4%80%EB%A6%AC.md)
+- [페이징](https://github.com/liarreez/Tech-Interview-Conquer/blob/main/Operating%20System/Paging.md)
+- [TLB](https://github.com/liarreez/Tech-Interview-Conquer/blob/main/Operating%20System/vm-tlbs.md)
+- [더 작은 페이징 테이블](https://github.com/liarreez/Tech-Interview-Conquer/blob/main/Operating%20System/VM%20Smalltables.md)
+- [물리 메모리 크기 극복 - 메커니즘](https://github.com/liarreez/Tech-Interview-Conquer/blob/main/Operating%20System/%EB%AC%BC%EB%A6%AC%20%EB%A9%94%EB%AA%A8%EB%A6%AC%20%ED%81%AC%EA%B8%B0%EC%9D%98%20%EA%B7%B9%EB%B3%B5%3A%20%EB%A9%94%EC%BB%A4%EB%8B%88%EC%A6%98.md)
+- [스레드](https://github.com/liarreez/Tech-Interview-Conquer/blob/main/Operating%20System/Threads.md)
+- [VAX&VMS](https://github.com/liarreez/Tech-Interview-Conquer/blob/main/Operating%20System/VAX%26VMS%20Virtual%20Memory%20System.md)
 
 <br>
 
@@ -142,5 +159,8 @@ ex) 2024-12-01 [Programming Language] Interpreted Language vs Compiled Language 
 
 - [HTTP vs HTTPS](https://github.com/liarreez/Tech-Interview-Conquer/blob/main/Web/HTTP%20vs%20HTTPS.md)
 - [REST API](https://github.com/liarreez/Tech-Interview-Conquer/blob/main/Web/REST%20API.md)
+- [웹 브라우저 렌더링](https://github.com/liarreez/Tech-Interview-Conquer/blob/main/Web/%EC%9B%B9%20%EB%B8%8C%EB%9D%BC%EC%9A%B0%EC%A0%80%20%EB%A0%8C%EB%8D%94%EB%A7%81%20%EA%B3%BC%EC%A0%95.md)
+- [웹 표준 & 웹 접근성](https://github.com/liarreez/Tech-Interview-Conquer/blob/main/Web/Web%20Standard%20%26%20Web%20Accessibility.md)
 - [WEB 1.0/2.0/3.0](https://github.com/liarreez/Tech-Interview-Conquer/blob/main/Web/Web1.0%20vs%20Web2.0%20vs%20Web3.0.md)
-- [라이브러리 vs 프레임워크](https://github.com/liarreez/Tech-Interview-Conquer/blob/main/Web/Library%20vs%20Framework.md)
+- [쿠키 vs 세션 vs 토큰](https://github.com/liarreez/Tech-Interview-Conquer/blob/main/Web/Cookie%20vs%20Session%20vs%20Token)
+- [메세지 큐](https://github.com/liarreez/Tech-Interview-Conquer/blob/main/Web/Message%20Queue.md)
