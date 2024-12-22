@@ -118,6 +118,7 @@ ex) 2024-12-01 [Programming Language] Interpreted Language vs Compiled Language 
 - [Static](https://github.com/liarreez/Tech-Interview-Conquer/blob/main/Language/Java/Static.md)
 - [오버로딩 vs 오버라이딩](https://github.com/liarreez/Tech-Interview-Conquer/blob/main/Language/Java/Overloading%20vs%20Overriding.md)
 - [String vs StringBuffer vs StringBuilder](https://github.com/liarreez/Tech-Interview-Conquer/blob/main/Language/Java/String%20vs%20StringBuffer%20vs%20StringBuilder.md)
+- [래퍼 클래스](https://github.com/liarreez/Tech-Interview-Conquer/blob/main/Language/Java/Wrapper%20Class.md)
 
 ### 프레임워크
 
