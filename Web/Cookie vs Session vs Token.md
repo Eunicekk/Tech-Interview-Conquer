@@ -1,4 +1,4 @@
-details>
+<details>
   <summary>쿠키에 대해서 설명해 주세요</summary>
 
 <br>
@@ -10,7 +10,7 @@ details>
 * 쿠키가 유출되면 세션 하이재킹 등 위험이 있으므로 HttpOnly, Secure, SameSite 등의 보안 설정이 필요합니다  
 </details>
 
-details>
+<details>
   <summary>세션에 대해서 설명해 주세요</summary>
 
 <br>
@@ -21,7 +21,7 @@ details>
 <br> 
 </details>
 
-details>
+<details>
   <summary>토큰에 대해서 설명해 주세요</summary>
 
 <br>
