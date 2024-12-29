@@ -158,7 +158,7 @@ ex) 2024-12-01 [Programming Language] Interpreted Language vs Compiled Language 
 - [스레드](https://github.com/liarreez/Tech-Interview-Conquer/blob/main/Operating%20System/Threads.md)
 - [VAX&VMS](https://github.com/liarreez/Tech-Interview-Conquer/blob/main/Operating%20System/VAX%26VMS%20Virtual%20Memory%20System.md)
 - [스레드 API & 락](https://github.com/liarreez/Tech-Interview-Conquer/blob/main/Operating%20System/Threads%20api%2C%20locks.md)
-- [스레드 락]
+- [스레드 락](https://github.com/liarreez/Tech-Interview-Conquer/blob/main/Operating%20System/%EC%8A%A4%EB%A0%88%EB%93%9C%20%EB%9D%BD.md)
 - [자료구조에서의 락 사용](https://github.com/liarreez/Tech-Interview-Conquer/blob/main/Operating%20System/%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0%EC%97%90%EC%84%9C%EC%9D%98%20%EB%9D%BD%20%EC%82%AC%EC%9A%A9.md)
 - [스레드 컨디션 변수](https://github.com/liarreez/Tech-Interview-Conquer/blob/main/Operating%20System/Threads%20%EC%BB%A8%EB%94%94%EC%85%98%20%EB%B3%80%EC%88%98.md)
 - [세마포어](https://github.com/liarreez/Tech-Interview-Conquer/blob/main/Operating%20System/Semaphore.md)
