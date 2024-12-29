@@ -116,18 +116,23 @@ ex) 2024-12-01 [Programming Language] Interpreted Language vs Compiled Language 
 - [추상클래스 vs 인터페이스](https://github.com/liarreez/Tech-Interview-Conquer/blob/main/Language/Java/%EC%B6%94%EC%83%81%ED%81%B4%EB%9E%98%EC%8A%A4%20vs%20%EC%9D%B8%ED%84%B0%ED%8E%98%EC%9D%B4%EC%8A%A4.md)
 - [컬렉션 프레임워크](https://github.com/liarreez/Tech-Interview-Conquer/blob/main/Language/Java/Collection%20Framework.md)
 - [Static](https://github.com/liarreez/Tech-Interview-Conquer/blob/main/Language/Java/Static.md)
+- [Call by Value vs Call by Reference](https://github.com/liarreez/Tech-Interview-Conquer/blob/main/Language/Java/Call%20by%20Value%20vs%20Call%20by%20Reference.md)
 - [오버로딩 vs 오버라이딩](https://github.com/liarreez/Tech-Interview-Conquer/blob/main/Language/Java/Overloading%20vs%20Overriding.md)
 - [String vs StringBuffer vs StringBuilder](https://github.com/liarreez/Tech-Interview-Conquer/blob/main/Language/Java/String%20vs%20StringBuffer%20vs%20StringBuilder.md)
 - [래퍼 클래스](https://github.com/liarreez/Tech-Interview-Conquer/blob/main/Language/Java/Wrapper%20Class.md)
+- [동기 vs 비동기](https://github.com/liarreez/Tech-Interview-Conquer/blob/main/Language/Java/Sync%20vs%20Async.md)
+
+<br>
 
 ### 프레임워크
 
 ---
 
 - [라이브러리 vs 프레임워크](https://github.com/liarreez/Tech-Interview-Conquer/blob/main/Framework/Library%20vs%20Framework.md)
-
-#### Spring
 - [Spring vs Spring Boot](https://github.com/liarreez/Tech-Interview-Conquer/blob/main/Framework/Spring/Spring%20vs%20Spring%20Boot.md)
+- [React vs Vue](https://github.com/liarreez/Tech-Interview-Conquer/blob/main/Framework/React/React%20vs%20Vue.md)
+
+<br>
 
 ### 운영체제
 
@@ -152,6 +157,14 @@ ex) 2024-12-01 [Programming Language] Interpreted Language vs Compiled Language 
 - [물리 메모리 크기 극복 - 정책](https://github.com/liarreez/Tech-Interview-Conquer/blob/main/Operating%20System/%EB%AC%BC%EB%A6%AC%20%EB%A9%94%EB%AA%A8%EB%A6%AC%20%ED%81%AC%EA%B8%B0%EC%9D%98%20%EA%B7%B9%EB%B3%B5%3A%20%EC%A0%95%EC%B1%85.md)
 - [스레드](https://github.com/liarreez/Tech-Interview-Conquer/blob/main/Operating%20System/Threads.md)
 - [VAX&VMS](https://github.com/liarreez/Tech-Interview-Conquer/blob/main/Operating%20System/VAX%26VMS%20Virtual%20Memory%20System.md)
+- [스레드 API & 락](https://github.com/liarreez/Tech-Interview-Conquer/blob/main/Operating%20System/Threads%20api%2C%20locks.md)
+- [스레드 락]
+- [자료구조에서의 락 사용](https://github.com/liarreez/Tech-Interview-Conquer/blob/main/Operating%20System/%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0%EC%97%90%EC%84%9C%EC%9D%98%20%EB%9D%BD%20%EC%82%AC%EC%9A%A9.md)
+- [스레드 컨디션 변수](https://github.com/liarreez/Tech-Interview-Conquer/blob/main/Operating%20System/Threads%20%EC%BB%A8%EB%94%94%EC%85%98%20%EB%B3%80%EC%88%98.md)
+- [세마포어](https://github.com/liarreez/Tech-Interview-Conquer/blob/main/Operating%20System/Semaphore.md)
+- [스레드 오류](https://github.com/liarreez/Tech-Interview-Conquer/blob/main/Operating%20System/Threads_bugs.md)
+- [이벤트 기반 병행성](https://github.com/liarreez/Tech-Interview-Conquer/blob/main/Operating%20System/Threads%20events.md)
+- [파일 장치](https://github.com/liarreez/Tech-Interview-Conquer/blob/main/Operating%20System/File%20Devices.md)
 
 <br>
 
@@ -163,7 +176,22 @@ ex) 2024-12-01 [Programming Language] Interpreted Language vs Compiled Language 
 - [REST API](https://github.com/liarreez/Tech-Interview-Conquer/blob/main/Web/REST%20API.md)
 - [Axios & Fetch](https://github.com/liarreez/Tech-Interview-Conquer/blob/main/Web/Axios%20vs%20Fetch.md)
 - [웹 브라우저 렌더링](https://github.com/liarreez/Tech-Interview-Conquer/blob/main/Web/%EC%9B%B9%20%EB%B8%8C%EB%9D%BC%EC%9A%B0%EC%A0%80%20%EB%A0%8C%EB%8D%94%EB%A7%81%20%EA%B3%BC%EC%A0%95.md)
+- [SPA vs CSR vs SSR](https://github.com/liarreez/Tech-Interview-Conquer/blob/main/Web/SPA%20vs%20CSR%20vs%20SSR.md)
 - [웹 표준 & 웹 접근성](https://github.com/liarreez/Tech-Interview-Conquer/blob/main/Web/Web%20Standard%20%26%20Web%20Accessibility.md)
 - [WEB 1.0/2.0/3.0](https://github.com/liarreez/Tech-Interview-Conquer/blob/main/Web/Web1.0%20vs%20Web2.0%20vs%20Web3.0.md)
 - [쿠키 vs 세션 vs 토큰](https://github.com/liarreez/Tech-Interview-Conquer/blob/main/Web/Cookie%20vs%20Session%20vs%20Token)
 - [메세지 큐](https://github.com/liarreez/Tech-Interview-Conquer/blob/main/Web/Message%20Queue.md)
+
+<br>
+
+### API
+- [API 개념](https://github.com/liarreez/Tech-Interview-Conquer/blob/main/API/API.md)
+
+<br>
+
+### 디자인 패턴
+
+---
+
+- [디자인 패턴의 종류](https://github.com/liarreez/Tech-Interview-Conquer/blob/main/Language/Java/%EB%94%94%EC%9E%90%EC%9D%B8%ED%8C%A8%ED%84%B4.md)
+- [MVC 패턴](https://github.com/liarreez/Tech-Interview-Conquer/blob/main/Design%20Pattern/MVC%20Pattern.md)
