@@ -6,7 +6,7 @@
 </details>
 
 <details>
-  <summary><strong> 옵저버 패턴의 장단점에 대해해 설명해주세요. </strong></summary>
+  <summary><strong> 옵저버 패턴의 장단점에 대해 설명해주세요. </strong></summary>
 
   ### 장점
 
