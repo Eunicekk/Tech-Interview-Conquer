@@ -101,6 +101,9 @@ ex) 2024-12-01 [Programming Language] Interpreted Language vs Compiled Language 
 ### 운영체제    
 - 운영체제 아주 쉬운 세가지 이야기(OSTEP) : https://pages.cs.wisc.edu/~remzi/OSTEP/Korean/
 
+### 네트워크
+- 컴퓨터 네트워킹 하향식 접근
+
 ## 🔖 Contents
 
 ### 언어
@@ -208,6 +211,9 @@ ex) 2024-12-01 [Programming Language] Interpreted Language vs Compiled Language 
 <br>
 
 ### API
+
+---
+
 - [API 개념](https://github.com/liarreez/Tech-Interview-Conquer/blob/main/API/API.md)
 
 <br>
