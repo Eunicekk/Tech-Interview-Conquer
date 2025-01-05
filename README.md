@@ -112,6 +112,7 @@ ex) 2024-12-01 [Programming Language] Interpreted Language vs Compiled Language 
 - [JVM](https://github.com/liarreez/Tech-Interview-Conquer/blob/main/Language/Java/%EC%9E%90%EB%B0%94%20%EC%8B%A4%ED%96%89%20%EA%B3%BC%EC%A0%95%20%EB%B0%8F%20JVM.md)
 - [가비지 컬렉션](https://github.com/liarreez/Tech-Interview-Conquer/blob/main/Language/Java/Garbage%20Collection.md)
 - [객체지향](https://github.com/liarreez/Tech-Interview-Conquer/blob/main/Language/Java/%EA%B0%9D%EC%B2%B4%EC%A7%80%ED%96%A5.md)
+- [객체 지향 설계 5원칙(SOLID)](https://github.com/liarreez/Tech-Interview-Conquer/blob/main/Language/Java/%EA%B0%9D%EC%B2%B4%20%EC%A7%80%ED%96%A5%20%EC%84%A4%EA%B3%84%205%EC%9B%90%EC%B9%99(SOLID).md)
 - [클래스, 객체, 인스턴스](https://github.com/liarreez/Tech-Interview-Conquer/blob/main/Language/Java/%ED%81%B4%EB%9E%98%EC%8A%A4%2C%20%EA%B0%9D%EC%B2%B4%2C%20%EC%9D%B8%EC%8A%A4%ED%84%B4%EC%8A%A4.md)
 - [추상클래스 vs 인터페이스](https://github.com/liarreez/Tech-Interview-Conquer/blob/main/Language/Java/%EC%B6%94%EC%83%81%ED%81%B4%EB%9E%98%EC%8A%A4%20vs%20%EC%9D%B8%ED%84%B0%ED%8E%98%EC%9D%B4%EC%8A%A4.md)
 - [컬렉션 프레임워크](https://github.com/liarreez/Tech-Interview-Conquer/blob/main/Language/Java/Collection%20Framework.md)
@@ -130,6 +131,7 @@ ex) 2024-12-01 [Programming Language] Interpreted Language vs Compiled Language 
 
 - [라이브러리 vs 프레임워크](https://github.com/liarreez/Tech-Interview-Conquer/blob/main/Framework/Library%20vs%20Framework.md)
 - [Spring vs Spring Boot](https://github.com/liarreez/Tech-Interview-Conquer/blob/main/Framework/Spring/Spring%20vs%20Spring%20Boot.md)
+- [Spring DI](https://github.com/liarreez/Tech-Interview-Conquer/blob/main/Framework/Spring/Spring%20DI.md)
 - [React vs Vue](https://github.com/liarreez/Tech-Interview-Conquer/blob/main/Framework/React/React%20vs%20Vue.md)
 
 <br>
@@ -165,6 +167,26 @@ ex) 2024-12-01 [Programming Language] Interpreted Language vs Compiled Language 
 - [스레드 오류](https://github.com/liarreez/Tech-Interview-Conquer/blob/main/Operating%20System/Threads_bugs.md)
 - [이벤트 기반 병행성](https://github.com/liarreez/Tech-Interview-Conquer/blob/main/Operating%20System/Threads%20events.md)
 - [파일 장치](https://github.com/liarreez/Tech-Interview-Conquer/blob/main/Operating%20System/File%20Devices.md)
+- [디스크 드라이브](https://github.com/liarreez/Tech-Interview-Conquer/blob/main/Operating%20System/File%20Disks.md)
+- [RAID](https://github.com/liarreez/Tech-Interview-Conquer/blob/main/Operating%20System/RAID.md)
+- [파일과 디렉터리](https://github.com/liarreez/Tech-Interview-Conquer/blob/main/Operating%20System/%ED%8C%8C%EC%9D%BC%EA%B3%BC%20%EB%94%94%EB%A0%89%ED%84%B0%EB%A6%AC.md)
+- [간단한 파일 시스템](https://github.com/liarreez/Tech-Interview-Conquer/blob/main/Operating%20System/Very%20Simple%20File%20System.md)
+- [지역성과 Fast File System](https://github.com/liarreez/Tech-Interview-Conquer/blob/main/Operating%20System/%EC%A7%80%EC%97%AD%EC%84%B1%EA%B3%BC%20Fast%20File%20System.md)
+- [크래시 일관성](https://github.com/liarreez/Tech-Interview-Conquer/blob/main/Operating%20System/%ED%81%AC%EB%9E%98%EC%8B%9C%20%EC%9D%BC%EA%B4%80%EC%84%B1.md)
+- [LFS](https://github.com/liarreez/Tech-Interview-Conquer/blob/main/Operating%20System/LFS.md)
+- [데이터 무결성과 보호](https://github.com/liarreez/Tech-Interview-Conquer/blob/main/Operating%20System/%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EB%AC%B4%EA%B2%B0%EC%84%B1%EA%B3%BC%20%EB%B3%B4%ED%98%B8.md)
+- [분산 시스템](https://github.com/liarreez/Tech-Interview-Conquer/blob/main/Operating%20System/%EB%B6%84%EC%82%B0%20%EC%8B%9C%EC%8A%A4%ED%85%9C.md)
+- [분산 파일 시스템](https://github.com/liarreez/Tech-Interview-Conquer/blob/main/Operating%20System/%EB%B6%84%EC%82%B0%20%ED%8C%8C%EC%9D%BC%20%EC%8B%9C%EC%8A%A4%ED%85%9C.md)
+- [AFS](https://github.com/liarreez/Tech-Interview-Conquer/blob/main/Operating%20System/AFS.md)
+- [NFS](https://github.com/liarreez/Tech-Interview-Conquer/blob/main/Operating%20System/NFS.md)
+
+<br>
+
+### 네트워크
+
+---
+
+- [IP&DNS](https://github.com/liarreez/Tech-Interview-Conquer/blob/main/Network/IP%26DNS.md)
 
 <br>
 
@@ -177,6 +199,7 @@ ex) 2024-12-01 [Programming Language] Interpreted Language vs Compiled Language 
 - [Axios & Fetch](https://github.com/liarreez/Tech-Interview-Conquer/blob/main/Web/Axios%20vs%20Fetch.md)
 - [웹 브라우저 렌더링](https://github.com/liarreez/Tech-Interview-Conquer/blob/main/Web/%EC%9B%B9%20%EB%B8%8C%EB%9D%BC%EC%9A%B0%EC%A0%80%20%EB%A0%8C%EB%8D%94%EB%A7%81%20%EA%B3%BC%EC%A0%95.md)
 - [SPA vs CSR vs SSR](https://github.com/liarreez/Tech-Interview-Conquer/blob/main/Web/SPA%20vs%20CSR%20vs%20SSR.md)
+- [SSG vs ISR](https://github.com/liarreez/Tech-Interview-Conquer/blob/main/Web/SSG%20vs%20ISR.md)
 - [웹 표준 & 웹 접근성](https://github.com/liarreez/Tech-Interview-Conquer/blob/main/Web/Web%20Standard%20%26%20Web%20Accessibility.md)
 - [WEB 1.0/2.0/3.0](https://github.com/liarreez/Tech-Interview-Conquer/blob/main/Web/Web1.0%20vs%20Web2.0%20vs%20Web3.0.md)
 - [쿠키 vs 세션 vs 토큰](https://github.com/liarreez/Tech-Interview-Conquer/blob/main/Web/Cookie%20vs%20Session%20vs%20Token)
@@ -195,3 +218,12 @@ ex) 2024-12-01 [Programming Language] Interpreted Language vs Compiled Language 
 
 - [디자인 패턴의 종류](https://github.com/liarreez/Tech-Interview-Conquer/blob/main/Language/Java/%EB%94%94%EC%9E%90%EC%9D%B8%ED%8C%A8%ED%84%B4.md)
 - [MVC 패턴](https://github.com/liarreez/Tech-Interview-Conquer/blob/main/Design%20Pattern/MVC%20Pattern.md)
+- [옵저버 패턴](https://github.com/liarreez/Tech-Interview-Conquer/blob/main/Design%20Pattern/Observer%20Pattern.md)
+
+<br>
+
+### GIT
+
+---
+
+- [Git branch](https://github.com/liarreez/Tech-Interview-Conquer/blob/main/Git/Git%20branch.md)
