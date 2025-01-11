@@ -54,3 +54,52 @@
   10. 사용자는 IP주소를 통해 해당 도메인의 Web 서버에 연결한다.
   11. 웹사이트로부터 원하는 콘텐츠를 받아온다.
 </details>
+
+<details>
+  <summary><strong>DNS 메시지와 자원 레코드를 설명해 주세요</strong></summary>
+
+  <br>
+
+  **DNS 메시지**는 DNS 질의와 응답에 사용되는 메시지로 헤더, 질문, 답변, 권한, 추가 정보로 구성되어 있습니다.  
+  **자원 레코드**는 호스트 이름을 IP 주소로 매핑하는 데이터로 Name, Value, Type, TTL로 구성되어 있습니다
+
+* Type별 Name, Value 매칭
+  
+|   Type         | Name      | Value       |
+|----------------|--------------|--------------------|
+| **Type A**     | 도메인         | IP 주소               |
+| **Type NS** | 도메인         | 책임 DNS 서버 도메인               |
+| **Type CNAME**  | 별칭 도메인         | 실제 도메인   |
+| **Type MX**   | 도메인         | 별칭 도메인 이름을 갖는 메일 서버의 이름 |
+
+</details>
+
+<details>
+  <summary><strong>DNS 등록과정을 설명해 주세요</strong></summary>
+
+  <br>
+
+  1. 도메인 소유자는 등록기관에 도메인을 등록하고 네임 서버(주책임 서버, 부책임 서버, IP 주소) 설정
+  2. 등록기관은 TLD 서버에 도메인과 네임 서버 정보 등록(Typa A, Type NS)
+
+* ICANN(Internet Corporation for Assigned Names and Numbers) : 등록기관을 승인 해주는 기구
+</details>
+
+<details>
+  <summary><strong>DNS의 보안 취약점과 해결 방법에는 어떤 것이 있을까요?</strong></summary>
+  
+#### DNS 서버 DDoS 공격
+- 공격 방법 : 공격자가 다수의 클라이언트로 특정 DNS 서버에 과도한 요청을 보냄
+- 해결 방안
+  * Anycast : 여러 지역에 동일한 IP를 가진 DNS 서버를 배포하여 부하 분산
+  * 캐싱 강화 : 로컬 DNS 캐시를 활용하여 DNS 서버에 대한 요청을 줄임
+#### DNS 루트 서버 DDoS 공격
+- 공격 방법 : 공격자가 다수의 클라이언트로 루트 DNS 서버에 과도한 요청을 보내 전체 인터넷 서비스에 영향을 끼침
+- 해결 방안
+  * 분산 인프라 : 전 세계에 분산된 여러 루트 서버 운영
+#### 중간자 공격
+- 공격 방법 : 공격자가 DNS 요청과 응답 사이에 개입하여 가짜 IP 주소를 제공하여 악성 서버로 유도
+- 해결 방안
+  * DNSSEC : 응답에 디지털 서명을 추가하여 데이터 무결성과 출처를 검증
+  * TLS/SSL : HTTPS를 사용하여 서버의 신뢰성 검증 및 데이터 암호화
+</details>
