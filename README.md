@@ -130,7 +130,7 @@ ex) 2024-12-01 [Programming Language] Interpreted Language vs Compiled Language 
 <br>
 
 #### Javascript
--[스코프 & 호이스팅](https://github.com/liarreez/Tech-Interview-Conquer/blob/main/Language/JavaScript/%EC%8A%A4%EC%BD%94%ED%94%84%EC%99%80%20%ED%98%B8%EC%9D%B4%EC%8A%A4%ED%8C%85%EC%97%90%20%EB%94%B0%EB%A5%B8%20%EB%B3%80%EC%88%98%20%EC%B0%A8%EC%9D%B4.md)
+- [스코프 & 호이스팅](https://github.com/liarreez/Tech-Interview-Conquer/blob/main/Language/JavaScript/%EC%8A%A4%EC%BD%94%ED%94%84%EC%99%80%20%ED%98%B8%EC%9D%B4%EC%8A%A4%ED%8C%85%EC%97%90%20%EB%94%B0%EB%A5%B8%20%EB%B3%80%EC%88%98%20%EC%B0%A8%EC%9D%B4.md)
 
 <br>
 
