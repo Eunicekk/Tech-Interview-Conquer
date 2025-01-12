@@ -124,7 +124,13 @@ ex) 2024-12-01 [Programming Language] Interpreted Language vs Compiled Language 
 - [오버로딩 vs 오버라이딩](https://github.com/liarreez/Tech-Interview-Conquer/blob/main/Language/Java/Overloading%20vs%20Overriding.md)
 - [String vs StringBuffer vs StringBuilder](https://github.com/liarreez/Tech-Interview-Conquer/blob/main/Language/Java/String%20vs%20StringBuffer%20vs%20StringBuilder.md)
 - [래퍼 클래스](https://github.com/liarreez/Tech-Interview-Conquer/blob/main/Language/Java/Wrapper%20Class.md)
+- [equals & Hashcode](https://github.com/liarreez/Tech-Interview-Conquer/blob/main/Language/Java/equals%20%26%20hashCode.md)
 - [동기 vs 비동기](https://github.com/liarreez/Tech-Interview-Conquer/blob/main/Language/Java/Sync%20vs%20Async.md)
+  
+<br>
+
+#### Javascript
+-[스코프 & 호이스팅](https://github.com/liarreez/Tech-Interview-Conquer/blob/main/Language/JavaScript/%EC%8A%A4%EC%BD%94%ED%94%84%EC%99%80%20%ED%98%B8%EC%9D%B4%EC%8A%A4%ED%8C%85%EC%97%90%20%EB%94%B0%EB%A5%B8%20%EB%B3%80%EC%88%98%20%EC%B0%A8%EC%9D%B4.md)
 
 <br>
 
@@ -134,8 +140,10 @@ ex) 2024-12-01 [Programming Language] Interpreted Language vs Compiled Language 
 
 - [라이브러리 vs 프레임워크](https://github.com/liarreez/Tech-Interview-Conquer/blob/main/Framework/Library%20vs%20Framework.md)
 - [Spring vs Spring Boot](https://github.com/liarreez/Tech-Interview-Conquer/blob/main/Framework/Spring/Spring%20vs%20Spring%20Boot.md)
+- [Spring Triangle](https://github.com/liarreez/Tech-Interview-Conquer/blob/main/Framework/Spring/Spring%20Triangle.md)
 - [Spring DI](https://github.com/liarreez/Tech-Interview-Conquer/blob/main/Framework/Spring/Spring%20DI.md)
 - [React vs Vue](https://github.com/liarreez/Tech-Interview-Conquer/blob/main/Framework/React/React%20vs%20Vue.md)
+- [React vs Next](https://github.com/liarreez/Tech-Interview-Conquer/blob/main/Framework/React/React%20vs%20Next.md)
 
 <br>
 
@@ -188,8 +196,27 @@ ex) 2024-12-01 [Programming Language] Interpreted Language vs Compiled Language 
 ### 네트워크
 
 ---
-
+- [인터넷 & 프로토콜](https://github.com/liarreez/Tech-Interview-Conquer/blob/main/Network/Internet%26Protocols.md)
+- [네트워크 코어](https://github.com/liarreez/Tech-Interview-Conquer/blob/main/Network/%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC%20%EC%BD%94%EC%96%B4.md)
+- [패킷 교환 네트워크에서의 지연, 손실과 처리율](https://github.com/liarreez/Tech-Interview-Conquer/blob/main/Network/%ED%8C%A8%ED%82%B7%20%EA%B5%90%ED%99%98%20%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC%EC%97%90%EC%84%9C%EC%9D%98%20%EC%A7%80%EC%97%B0%2C%20%EC%86%90%EC%8B%A4%EA%B3%BC%20%EC%B2%98%EB%A6%AC%EC%9C%A8.md)
+- [계층구조 & TCP/UDP 개요](https://github.com/liarreez/Tech-Interview-Conquer/blob/main/Network/Packet-Switched%20Network%20%26%20Protocol%20Layer.md)
+- [네트워크 공격](https://github.com/liarreez/Tech-Interview-Conquer/blob/main/Network/Network%20Attack.md)
+- [애플리케이션 계층](https://github.com/liarreez/Tech-Interview-Conquer/blob/main/Network/%EC%95%A0%ED%94%8C%EB%A6%AC%EC%BC%80%EC%9D%B4%EC%85%98%20%EA%B3%84%EC%B8%B5.md)
+- [HTTP 메시지](https://github.com/liarreez/Tech-Interview-Conquer/blob/main/Network/HTTP%20Message%20Format.md)
+- [비지속 연결과 지속 연결](https://github.com/liarreez/Tech-Interview-Conquer/blob/main/Network/Non-Persistent%20and%20Persistent%20Connections.md)
+- [쿠키](https://github.com/liarreez/Tech-Interview-Conquer/blob/main/Network/User-Server%20InteractionCookies.md)
+- [이메일](https://github.com/liarreez/Tech-Interview-Conquer/blob/main/Network/Email.md)
 - [IP&DNS](https://github.com/liarreez/Tech-Interview-Conquer/blob/main/Network/IP%26DNS.md)
+- [P2P 파일 분배](https://github.com/liarreez/Tech-Interview-Conquer/blob/main/Network/P2P%20%ED%8C%8C%EC%9D%BC%20%EB%B6%84%EB%B0%B0.md)
+- [비디오 스트리밍 & CDN](https://github.com/liarreez/Tech-Interview-Conquer/blob/main/Network/%EB%B9%84%EB%94%94%EC%98%A4%20%EC%8A%A4%ED%8A%B8%EB%A6%AC%EB%B0%8D%20%26%20CDN.md)
+
+<br>
+
+### DB
+
+---
+
+- [DBMS 종류](https://github.com/liarreez/Tech-Interview-Conquer/blob/main/DataBase/DBMS%EC%9D%98%20%EC%A2%85%EB%A5%98.md)
 
 <br>
 
@@ -207,6 +234,14 @@ ex) 2024-12-01 [Programming Language] Interpreted Language vs Compiled Language 
 - [WEB 1.0/2.0/3.0](https://github.com/liarreez/Tech-Interview-Conquer/blob/main/Web/Web1.0%20vs%20Web2.0%20vs%20Web3.0.md)
 - [쿠키 vs 세션 vs 토큰](https://github.com/liarreez/Tech-Interview-Conquer/blob/main/Web/Cookie%20vs%20Session%20vs%20Token)
 - [메세지 큐](https://github.com/liarreez/Tech-Interview-Conquer/blob/main/Web/Message%20Queue.md)
+
+<br>
+
+### Cloud
+
+---
+
+- [IaaS & PaaS & SaaS](https://github.com/liarreez/Tech-Interview-Conquer/blob/main/Cloud/IaaS%2C%20PaaS%2C%20SaaS.md)
 
 <br>
 
@@ -233,3 +268,4 @@ ex) 2024-12-01 [Programming Language] Interpreted Language vs Compiled Language 
 ---
 
 - [Git branch](https://github.com/liarreez/Tech-Interview-Conquer/blob/main/Git/Git%20branch.md)
+- [Merge](https://github.com/liarreez/Tech-Interview-Conquer/blob/main/Git/Merge.md)
