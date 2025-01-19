@@ -131,6 +131,8 @@ ex) 2024-12-01 [Programming Language] Interpreted Language vs Compiled Language 
 
 #### Javascript
 - [스코프 & 호이스팅](https://github.com/liarreez/Tech-Interview-Conquer/blob/main/Language/JavaScript/%EC%8A%A4%EC%BD%94%ED%94%84%EC%99%80%20%ED%98%B8%EC%9D%B4%EC%8A%A4%ED%8C%85%EC%97%90%20%EB%94%B0%EB%A5%B8%20%EB%B3%80%EC%88%98%20%EC%B0%A8%EC%9D%B4.md)
+- [스코프와 호이스팅에 따른 변수 차이](https://github.com/liarreez/Tech-Interview-Conquer/blob/main/Language/JavaScript/%EC%8A%A4%EC%BD%94%ED%94%84%EC%99%80%20%ED%98%B8%EC%9D%B4%EC%8A%A4%ED%8C%85%EC%97%90%20%EB%94%B0%EB%A5%B8%20%EB%B3%80%EC%88%98%20%EC%B0%A8%EC%9D%B4.md)
+- [JavaScript vs TypeScript](https://github.com/liarreez/Tech-Interview-Conquer/blob/main/Language/JavaScript/JavaScript%20%20vs%20TypeScript.md)
 
 <br>
 
@@ -209,6 +211,15 @@ ex) 2024-12-01 [Programming Language] Interpreted Language vs Compiled Language 
 - [IP&DNS](https://github.com/liarreez/Tech-Interview-Conquer/blob/main/Network/IP%26DNS.md)
 - [P2P 파일 분배](https://github.com/liarreez/Tech-Interview-Conquer/blob/main/Network/P2P%20%ED%8C%8C%EC%9D%BC%20%EB%B6%84%EB%B0%B0.md)
 - [비디오 스트리밍 & CDN](https://github.com/liarreez/Tech-Interview-Conquer/blob/main/Network/%EB%B9%84%EB%94%94%EC%98%A4%20%EC%8A%A4%ED%8A%B8%EB%A6%AC%EB%B0%8D%20%26%20CDN.md)
+- [UDP vs TCP](https://github.com/liarreez/Tech-Interview-Conquer/blob/main/Network/UDPvsTCP.md)
+- [트랜스포트 계층 및 다중화와 역다중화](https://github.com/liarreez/Tech-Interview-Conquer/blob/main/Network/%ED%8A%B8%EB%9E%9C%EC%8A%A4%ED%8F%AC%ED%8A%B8%20%EA%B3%84%EC%B8%B5%20%EB%B0%8F%20%EB%8B%A4%EC%A4%91%ED%99%94%EC%99%80%20%EC%97%AD%EB%8B%A4%EC%A4%91%ED%99%94.md)
+- [UDP](https://github.com/liarreez/Tech-Interview-Conquer/blob/main/Network/UDP.md)
+- [파이프라이닝된 프로토콜](https://github.com/liarreez/Tech-Interview-Conquer/blob/main/Network/%ED%8C%8C%EC%9D%B4%ED%94%84%EB%9D%BC%EC%9D%B4%EB%8B%9D%EB%90%9C%20%ED%94%84%EB%A1%9C%ED%86%A0%EC%BD%9C.md)
+- [신뢰적인 데이터 전송 프로토콜](https://github.com/liarreez/Tech-Interview-Conquer/blob/main/Network/%EC%8B%A0%EB%A2%B0%EC%A0%81%EC%9D%B8%20%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EC%A0%84%EC%86%A1%20%ED%94%84%EB%A1%9C%ED%86%A0%EC%BD%9C%EC%9D%98%20%EA%B5%AC%EC%B6%95.md)
+- [슬라이딩 윈도우 기반 ARQ 프로토콜](https://github.com/liarreez/Tech-Interview-Conquer/blob/main/Network/%EC%8A%AC%EB%9D%BC%EC%9D%B4%EB%94%A9%20%EC%9C%88%EB%8F%84%EC%9A%B0%20%EA%B8%B0%EB%B0%98%20ARQ%20%ED%94%84%EB%A1%9C%ED%86%A0%EC%BD%9C.md)
+- [TCP](https://github.com/liarreez/Tech-Interview-Conquer/blob/main/Network/%EC%97%B0%EA%B2%B0%EC%A7%80%ED%96%A5%ED%98%95%20%ED%8A%B8%EB%9E%9C%EC%8A%A4%ED%8F%AC%ED%8A%B8%20-%20TCP.md)
+- [TCP의 지연 ACK](https://github.com/liarreez/Tech-Interview-Conquer/blob/main/Network/Reliable%20Data%20Transfer.md)
+- [TCP 연결 관리](https://github.com/liarreez/Tech-Interview-Conquer/blob/main/Network/TCP%20%EC%97%B0%EA%B2%B0%20%EA%B4%80%EB%A6%AC.md)
 
 <br>
 
@@ -224,6 +235,7 @@ ex) 2024-12-01 [Programming Language] Interpreted Language vs Compiled Language 
 
 ---
 
+- [Web](https://github.com/liarreez/Tech-Interview-Conquer/blob/main/Web/Web.md)
 - [HTTP vs HTTPS](https://github.com/liarreez/Tech-Interview-Conquer/blob/main/Web/HTTP%20vs%20HTTPS.md)
 - [REST API](https://github.com/liarreez/Tech-Interview-Conquer/blob/main/Web/REST%20API.md)
 - [Axios & Fetch](https://github.com/liarreez/Tech-Interview-Conquer/blob/main/Web/Axios%20vs%20Fetch.md)
@@ -233,6 +245,7 @@ ex) 2024-12-01 [Programming Language] Interpreted Language vs Compiled Language 
 - [웹 표준 & 웹 접근성](https://github.com/liarreez/Tech-Interview-Conquer/blob/main/Web/Web%20Standard%20%26%20Web%20Accessibility.md)
 - [WEB 1.0/2.0/3.0](https://github.com/liarreez/Tech-Interview-Conquer/blob/main/Web/Web1.0%20vs%20Web2.0%20vs%20Web3.0.md)
 - [쿠키 vs 세션 vs 토큰](https://github.com/liarreez/Tech-Interview-Conquer/blob/main/Web/Cookie%20vs%20Session%20vs%20Token)
+- [OAuth](https://github.com/liarreez/Tech-Interview-Conquer/blob/main/Web/OAuth.md)
 - [메세지 큐](https://github.com/liarreez/Tech-Interview-Conquer/blob/main/Web/Message%20Queue.md)
 
 <br>
@@ -245,11 +258,18 @@ ex) 2024-12-01 [Programming Language] Interpreted Language vs Compiled Language 
 
 <br>
 
+### AI
+
+---
+
+- [RAG](https://github.com/liarreez/Tech-Interview-Conquer/blob/main/AI/RAG.md)
+
 ### API
 
 ---
 
 - [API 개념](https://github.com/liarreez/Tech-Interview-Conquer/blob/main/API/API.md)
+- [API 구현 방식](https://github.com/liarreez/Tech-Interview-Conquer/blob/main/API/SOAP.md)
 
 <br>
 
@@ -269,3 +289,4 @@ ex) 2024-12-01 [Programming Language] Interpreted Language vs Compiled Language 
 
 - [Git branch](https://github.com/liarreez/Tech-Interview-Conquer/blob/main/Git/Git%20branch.md)
 - [Merge](https://github.com/liarreez/Tech-Interview-Conquer/blob/main/Git/Merge.md)
+- [Git Fork](https://github.com/liarreez/Tech-Interview-Conquer/blob/main/Git/Git%20fork.md)
