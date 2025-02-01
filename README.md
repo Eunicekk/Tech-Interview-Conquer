@@ -101,6 +101,215 @@ ex) 2024-12-01 [Programming Language] Interpreted Language vs Compiled Language 
 ### 운영체제    
 - 운영체제 아주 쉬운 세가지 이야기(OSTEP) : https://pages.cs.wisc.edu/~remzi/OSTEP/Korean/
 
+### 네트워크
+- 컴퓨터 네트워킹 하향식 접근
+
 ## 🔖 Contents
 
+### 언어
 
+---
+
+#### Java
+- [Java의 장단점](https://github.com/liarreez/Tech-Interview-Conquer/blob/main/Language/Java/Java.md)
+- [JVM](https://github.com/liarreez/Tech-Interview-Conquer/blob/main/Language/Java/%EC%9E%90%EB%B0%94%20%EC%8B%A4%ED%96%89%20%EA%B3%BC%EC%A0%95%20%EB%B0%8F%20JVM.md)
+- [가비지 컬렉션](https://github.com/liarreez/Tech-Interview-Conquer/blob/main/Language/Java/Garbage%20Collection.md)
+- [객체지향](https://github.com/liarreez/Tech-Interview-Conquer/blob/main/Language/Java/%EA%B0%9D%EC%B2%B4%EC%A7%80%ED%96%A5.md)
+- [객체 지향 설계 5원칙(SOLID)](https://github.com/liarreez/Tech-Interview-Conquer/blob/main/Language/Java/%EA%B0%9D%EC%B2%B4%20%EC%A7%80%ED%96%A5%20%EC%84%A4%EA%B3%84%205%EC%9B%90%EC%B9%99(SOLID).md)
+- [클래스, 객체, 인스턴스](https://github.com/liarreez/Tech-Interview-Conquer/blob/main/Language/Java/%ED%81%B4%EB%9E%98%EC%8A%A4%2C%20%EA%B0%9D%EC%B2%B4%2C%20%EC%9D%B8%EC%8A%A4%ED%84%B4%EC%8A%A4.md)
+- [추상클래스 vs 인터페이스](https://github.com/liarreez/Tech-Interview-Conquer/blob/main/Language/Java/%EC%B6%94%EC%83%81%ED%81%B4%EB%9E%98%EC%8A%A4%20vs%20%EC%9D%B8%ED%84%B0%ED%8E%98%EC%9D%B4%EC%8A%A4.md)
+- [컬렉션 프레임워크](https://github.com/liarreez/Tech-Interview-Conquer/blob/main/Language/Java/Collection%20Framework.md)
+- [Static](https://github.com/liarreez/Tech-Interview-Conquer/blob/main/Language/Java/Static.md)
+- [Call by Value vs Call by Reference](https://github.com/liarreez/Tech-Interview-Conquer/blob/main/Language/Java/Call%20by%20Value%20vs%20Call%20by%20Reference.md)
+- [오버로딩 vs 오버라이딩](https://github.com/liarreez/Tech-Interview-Conquer/blob/main/Language/Java/Overloading%20vs%20Overriding.md)
+- [String vs StringBuffer vs StringBuilder](https://github.com/liarreez/Tech-Interview-Conquer/blob/main/Language/Java/String%20vs%20StringBuffer%20vs%20StringBuilder.md)
+- [래퍼 클래스](https://github.com/liarreez/Tech-Interview-Conquer/blob/main/Language/Java/Wrapper%20Class.md)
+- [equals & Hashcode](https://github.com/liarreez/Tech-Interview-Conquer/blob/main/Language/Java/equals%20%26%20hashCode.md)
+- [Checked Exception vs Unchecked Exception](https://github.com/liarreez/Tech-Interview-Conquer/blob/main/Language/Java/Checked%20Exception%20vs%20Unchecked%20Exception.md)
+- [동기 vs 비동기](https://github.com/liarreez/Tech-Interview-Conquer/blob/main/Language/Java/Sync%20vs%20Async.md)
+  
+<br>
+
+#### Javascript
+- [스코프 & 호이스팅](https://github.com/liarreez/Tech-Interview-Conquer/blob/main/Language/JavaScript/%EC%8A%A4%EC%BD%94%ED%94%84%EC%99%80%20%ED%98%B8%EC%9D%B4%EC%8A%A4%ED%8C%85%EC%97%90%20%EB%94%B0%EB%A5%B8%20%EB%B3%80%EC%88%98%20%EC%B0%A8%EC%9D%B4.md)
+- [스코프와 호이스팅에 따른 변수 차이](https://github.com/liarreez/Tech-Interview-Conquer/blob/main/Language/JavaScript/%EC%8A%A4%EC%BD%94%ED%94%84%EC%99%80%20%ED%98%B8%EC%9D%B4%EC%8A%A4%ED%8C%85%EC%97%90%20%EB%94%B0%EB%A5%B8%20%EB%B3%80%EC%88%98%20%EC%B0%A8%EC%9D%B4.md)
+- [Promise](https://github.com/liarreez/Tech-Interview-Conquer/blob/main/Language/JavaScript/Promise.md)
+- [JavaScript vs TypeScript](https://github.com/liarreez/Tech-Interview-Conquer/blob/main/Language/JavaScript/JavaScript%20%20vs%20TypeScript.md)
+
+<br>
+
+### 프레임워크
+
+---
+
+- [라이브러리 vs 프레임워크](https://github.com/liarreez/Tech-Interview-Conquer/blob/main/Framework/Library%20vs%20Framework.md)
+- [Spring vs Spring Boot](https://github.com/liarreez/Tech-Interview-Conquer/blob/main/Framework/Spring/Spring%20vs%20Spring%20Boot.md)
+- [Spring Triangle](https://github.com/liarreez/Tech-Interview-Conquer/blob/main/Framework/Spring/Spring%20Triangle.md)
+- [Spring DI](https://github.com/liarreez/Tech-Interview-Conquer/blob/main/Framework/Spring/Spring%20DI.md)
+- [Spring MVC](https://github.com/liarreez/Tech-Interview-Conquer/blob/main/Framework/Spring/Spring%20MVC.md)
+- [React vs Vue](https://github.com/liarreez/Tech-Interview-Conquer/blob/main/Framework/React/React%20vs%20Vue.md)
+- [React vs Next](https://github.com/liarreez/Tech-Interview-Conquer/blob/main/Framework/React/React%20vs%20Next.md)
+
+<br>
+
+### 라이브러리
+
+---
+
+- [Frontend 상태관리 라이브러리](https://github.com/liarreez/Tech-Interview-Conquer/blob/main/Library/FrontEnd%20%EC%83%81%ED%83%9C%EA%B4%80%EB%A6%AC%20%EB%9D%BC%EC%9D%B4%EB%B8%8C%EB%9F%AC%EB%A6%AC.md)
+
+<br>
+
+### 운영체제
+
+---
+
+- [프로세스](https://github.com/liarreez/Tech-Interview-Conquer/blob/main/Operating%20System/Process.md)
+- [프로세스 시스템 콜](https://github.com/liarreez/Tech-Interview-Conquer/blob/main/Operating%20System/CPU%20API.md)
+- [제한적 직접 실행](https://github.com/liarreez/Tech-Interview-Conquer/blob/main/Operating%20System/Limited%20Direct%20Execution.md)
+- [CPU 스케줄링](https://github.com/liarreez/Tech-Interview-Conquer/blob/main/Operating%20System/Scheduling.md)
+- [멀티 레벨 피드백 큐](https://github.com/liarreez/Tech-Interview-Conquer/blob/main/Operating%20System/MLFQ.md)
+- [비례 배분 스케줄링](https://github.com/liarreez/Tech-Interview-Conquer/blob/main/Operating%20System/%EB%B9%84%EB%A1%80%20%EB%B0%B0%EB%B6%84.md)
+- [멀티 프로세서 스케줄링](https://github.com/liarreez/Tech-Interview-Conquer/blob/main/Operating%20System/Multiprocessor%20Scheduling.md)
+- [CPU 가상화](https://github.com/liarreez/Tech-Interview-Conquer/blob/main/Operating%20System/CPU%20Virtualization.md)
+- [가상 메모리](https://github.com/liarreez/Tech-Interview-Conquer/blob/main/Operating%20System/Virtual%20Memory.md)
+- [주소 변환](https://github.com/liarreez/Tech-Interview-Conquer/blob/main/Operating%20System/Address%20Traslation.md)
+- [세그멘테이션](https://github.com/liarreez/Tech-Interview-Conquer/blob/main/Operating%20System/Segmentation.md)
+- [메모리 빈 공간 관리](https://github.com/liarreez/Tech-Interview-Conquer/blob/main/Operating%20System/%EB%B9%88%20%EA%B3%B5%EA%B0%84%20%EA%B4%80%EB%A6%AC.md)
+- [페이징](https://github.com/liarreez/Tech-Interview-Conquer/blob/main/Operating%20System/Paging.md)
+- [TLB](https://github.com/liarreez/Tech-Interview-Conquer/blob/main/Operating%20System/vm-tlbs.md)
+- [더 작은 페이징 테이블](https://github.com/liarreez/Tech-Interview-Conquer/blob/main/Operating%20System/VM%20Smalltables.md)
+- [물리 메모리 크기 극복 - 메커니즘](https://github.com/liarreez/Tech-Interview-Conquer/blob/main/Operating%20System/%EB%AC%BC%EB%A6%AC%20%EB%A9%94%EB%AA%A8%EB%A6%AC%20%ED%81%AC%EA%B8%B0%EC%9D%98%20%EA%B7%B9%EB%B3%B5%3A%20%EB%A9%94%EC%BB%A4%EB%8B%88%EC%A6%98.md)
+- [물리 메모리 크기 극복 - 정책](https://github.com/liarreez/Tech-Interview-Conquer/blob/main/Operating%20System/%EB%AC%BC%EB%A6%AC%20%EB%A9%94%EB%AA%A8%EB%A6%AC%20%ED%81%AC%EA%B8%B0%EC%9D%98%20%EA%B7%B9%EB%B3%B5%3A%20%EC%A0%95%EC%B1%85.md)
+- [스레드](https://github.com/liarreez/Tech-Interview-Conquer/blob/main/Operating%20System/Threads.md)
+- [VAX&VMS](https://github.com/liarreez/Tech-Interview-Conquer/blob/main/Operating%20System/VAX%26VMS%20Virtual%20Memory%20System.md)
+- [스레드 API & 락](https://github.com/liarreez/Tech-Interview-Conquer/blob/main/Operating%20System/Threads%20api%2C%20locks.md)
+- [스레드 락](https://github.com/liarreez/Tech-Interview-Conquer/blob/main/Operating%20System/%EC%8A%A4%EB%A0%88%EB%93%9C%20%EB%9D%BD.md)
+- [자료구조에서의 락 사용](https://github.com/liarreez/Tech-Interview-Conquer/blob/main/Operating%20System/%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0%EC%97%90%EC%84%9C%EC%9D%98%20%EB%9D%BD%20%EC%82%AC%EC%9A%A9.md)
+- [스레드 컨디션 변수](https://github.com/liarreez/Tech-Interview-Conquer/blob/main/Operating%20System/Threads%20%EC%BB%A8%EB%94%94%EC%85%98%20%EB%B3%80%EC%88%98.md)
+- [세마포어](https://github.com/liarreez/Tech-Interview-Conquer/blob/main/Operating%20System/Semaphore.md)
+- [스레드 오류](https://github.com/liarreez/Tech-Interview-Conquer/blob/main/Operating%20System/Threads_bugs.md)
+- [이벤트 기반 병행성](https://github.com/liarreez/Tech-Interview-Conquer/blob/main/Operating%20System/Threads%20events.md)
+- [파일 장치](https://github.com/liarreez/Tech-Interview-Conquer/blob/main/Operating%20System/File%20Devices.md)
+- [디스크 드라이브](https://github.com/liarreez/Tech-Interview-Conquer/blob/main/Operating%20System/File%20Disks.md)
+- [RAID](https://github.com/liarreez/Tech-Interview-Conquer/blob/main/Operating%20System/RAID.md)
+- [파일과 디렉터리](https://github.com/liarreez/Tech-Interview-Conquer/blob/main/Operating%20System/%ED%8C%8C%EC%9D%BC%EA%B3%BC%20%EB%94%94%EB%A0%89%ED%84%B0%EB%A6%AC.md)
+- [간단한 파일 시스템](https://github.com/liarreez/Tech-Interview-Conquer/blob/main/Operating%20System/Very%20Simple%20File%20System.md)
+- [지역성과 Fast File System](https://github.com/liarreez/Tech-Interview-Conquer/blob/main/Operating%20System/%EC%A7%80%EC%97%AD%EC%84%B1%EA%B3%BC%20Fast%20File%20System.md)
+- [크래시 일관성](https://github.com/liarreez/Tech-Interview-Conquer/blob/main/Operating%20System/%ED%81%AC%EB%9E%98%EC%8B%9C%20%EC%9D%BC%EA%B4%80%EC%84%B1.md)
+- [LFS](https://github.com/liarreez/Tech-Interview-Conquer/blob/main/Operating%20System/LFS.md)
+- [데이터 무결성과 보호](https://github.com/liarreez/Tech-Interview-Conquer/blob/main/Operating%20System/%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EB%AC%B4%EA%B2%B0%EC%84%B1%EA%B3%BC%20%EB%B3%B4%ED%98%B8.md)
+- [분산 시스템](https://github.com/liarreez/Tech-Interview-Conquer/blob/main/Operating%20System/%EB%B6%84%EC%82%B0%20%EC%8B%9C%EC%8A%A4%ED%85%9C.md)
+- [분산 파일 시스템](https://github.com/liarreez/Tech-Interview-Conquer/blob/main/Operating%20System/%EB%B6%84%EC%82%B0%20%ED%8C%8C%EC%9D%BC%20%EC%8B%9C%EC%8A%A4%ED%85%9C.md)
+- [AFS](https://github.com/liarreez/Tech-Interview-Conquer/blob/main/Operating%20System/AFS.md)
+- [NFS](https://github.com/liarreez/Tech-Interview-Conquer/blob/main/Operating%20System/NFS.md)
+
+<br>
+
+### 네트워크
+
+---
+- [인터넷 & 프로토콜](https://github.com/liarreez/Tech-Interview-Conquer/blob/main/Network/Internet%26Protocols.md)
+- [네트워크 코어](https://github.com/liarreez/Tech-Interview-Conquer/blob/main/Network/%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC%20%EC%BD%94%EC%96%B4.md)
+- [패킷 교환 네트워크에서의 지연, 손실과 처리율](https://github.com/liarreez/Tech-Interview-Conquer/blob/main/Network/%ED%8C%A8%ED%82%B7%20%EA%B5%90%ED%99%98%20%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC%EC%97%90%EC%84%9C%EC%9D%98%20%EC%A7%80%EC%97%B0%2C%20%EC%86%90%EC%8B%A4%EA%B3%BC%20%EC%B2%98%EB%A6%AC%EC%9C%A8.md)
+- [계층구조 & TCP/UDP 개요](https://github.com/liarreez/Tech-Interview-Conquer/blob/main/Network/Packet-Switched%20Network%20%26%20Protocol%20Layer.md)
+- [네트워크 공격](https://github.com/liarreez/Tech-Interview-Conquer/blob/main/Network/Network%20Attack.md)
+- [애플리케이션 계층](https://github.com/liarreez/Tech-Interview-Conquer/blob/main/Network/%EC%95%A0%ED%94%8C%EB%A6%AC%EC%BC%80%EC%9D%B4%EC%85%98%20%EA%B3%84%EC%B8%B5.md)
+- [HTTP 메시지](https://github.com/liarreez/Tech-Interview-Conquer/blob/main/Network/HTTP%20Message%20Format.md)
+- [비지속 연결과 지속 연결](https://github.com/liarreez/Tech-Interview-Conquer/blob/main/Network/Non-Persistent%20and%20Persistent%20Connections.md)
+- [쿠키](https://github.com/liarreez/Tech-Interview-Conquer/blob/main/Network/User-Server%20InteractionCookies.md)
+- [이메일](https://github.com/liarreez/Tech-Interview-Conquer/blob/main/Network/Email.md)
+- [IP&DNS](https://github.com/liarreez/Tech-Interview-Conquer/blob/main/Network/IP%26DNS.md)
+- [P2P 파일 분배](https://github.com/liarreez/Tech-Interview-Conquer/blob/main/Network/P2P%20%ED%8C%8C%EC%9D%BC%20%EB%B6%84%EB%B0%B0.md)
+- [비디오 스트리밍 & CDN](https://github.com/liarreez/Tech-Interview-Conquer/blob/main/Network/%EB%B9%84%EB%94%94%EC%98%A4%20%EC%8A%A4%ED%8A%B8%EB%A6%AC%EB%B0%8D%20%26%20CDN.md)
+- [UDP vs TCP](https://github.com/liarreez/Tech-Interview-Conquer/blob/main/Network/UDPvsTCP.md)
+- [트랜스포트 계층 및 다중화와 역다중화](https://github.com/liarreez/Tech-Interview-Conquer/blob/main/Network/%ED%8A%B8%EB%9E%9C%EC%8A%A4%ED%8F%AC%ED%8A%B8%20%EA%B3%84%EC%B8%B5%20%EB%B0%8F%20%EB%8B%A4%EC%A4%91%ED%99%94%EC%99%80%20%EC%97%AD%EB%8B%A4%EC%A4%91%ED%99%94.md)
+- [UDP](https://github.com/liarreez/Tech-Interview-Conquer/blob/main/Network/UDP.md)
+- [파이프라이닝된 프로토콜](https://github.com/liarreez/Tech-Interview-Conquer/blob/main/Network/%ED%8C%8C%EC%9D%B4%ED%94%84%EB%9D%BC%EC%9D%B4%EB%8B%9D%EB%90%9C%20%ED%94%84%EB%A1%9C%ED%86%A0%EC%BD%9C.md)
+- [신뢰적인 데이터 전송 프로토콜](https://github.com/liarreez/Tech-Interview-Conquer/blob/main/Network/%EC%8B%A0%EB%A2%B0%EC%A0%81%EC%9D%B8%20%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EC%A0%84%EC%86%A1%20%ED%94%84%EB%A1%9C%ED%86%A0%EC%BD%9C%EC%9D%98%20%EA%B5%AC%EC%B6%95.md)
+- [슬라이딩 윈도우 기반 ARQ 프로토콜](https://github.com/liarreez/Tech-Interview-Conquer/blob/main/Network/%EC%8A%AC%EB%9D%BC%EC%9D%B4%EB%94%A9%20%EC%9C%88%EB%8F%84%EC%9A%B0%20%EA%B8%B0%EB%B0%98%20ARQ%20%ED%94%84%EB%A1%9C%ED%86%A0%EC%BD%9C.md)
+- [TCP](https://github.com/liarreez/Tech-Interview-Conquer/blob/main/Network/%EC%97%B0%EA%B2%B0%EC%A7%80%ED%96%A5%ED%98%95%20%ED%8A%B8%EB%9E%9C%EC%8A%A4%ED%8F%AC%ED%8A%B8%20-%20TCP.md)
+- [TCP의 지연 ACK](https://github.com/liarreez/Tech-Interview-Conquer/blob/main/Network/Reliable%20Data%20Transfer.md)
+- [TCP 연결 관리](https://github.com/liarreez/Tech-Interview-Conquer/blob/main/Network/TCP%20%EC%97%B0%EA%B2%B0%20%EA%B4%80%EB%A6%AC.md)
+- [혼잡 제어의 원리](https://github.com/liarreez/Tech-Interview-Conquer/blob/main/Network/%ED%98%BC%EC%9E%A1%20%EC%A0%9C%EC%96%B4%EC%9D%98%20%EC%9B%90%EB%A6%AC.md)
+- [TCP 혼잡 제어](https://github.com/liarreez/Tech-Interview-Conquer/blob/main/Network/TCP%20%ED%98%BC%EC%9E%A1%20%EC%A0%9C%EC%96%B4.md)
+- [QUIC & 네트워크 계층 개요](https://github.com/liarreez/Tech-Interview-Conquer/blob/main/Network/QUIC%2C%20%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC%20%EA%B3%84%EC%B8%B5%20%EA%B0%9C%EC%9A%94.md)
+- [라우터 구조](https://github.com/liarreez/Tech-Interview-Conquer/blob/main/Network/%EB%9D%BC%EC%9A%B0%ED%84%B0%20%EA%B5%AC%EC%A1%B0.md)
+- [패킷 스케줄링](https://github.com/liarreez/Tech-Interview-Conquer/blob/main/Network/%ED%8C%A8%ED%82%B7%20%EC%8A%A4%EC%BC%80%EC%A4%84%EB%A7%81.md)
+- [IPv4](https://github.com/liarreez/Tech-Interview-Conquer/blob/main/Network/IPv4.md)
+- [IPv4 vs IPv6](https://github.com/liarreez/Tech-Interview-Conquer/blob/main/Network/IPv4%20vs%20IPv6.md)
+- [SDN](https://github.com/liarreez/Tech-Interview-Conquer/blob/main/Network/SDN.md)
+- [라우팅 알고리즘](https://github.com/liarreez/Tech-Interview-Conquer/blob/main/Network/Routing%20Algorithm.md)
+
+<br>
+
+### DB
+
+---
+
+- [DBMS 종류](https://github.com/liarreez/Tech-Interview-Conquer/blob/main/DataBase/DBMS%EC%9D%98%20%EC%A2%85%EB%A5%98.md)
+
+<br>
+
+### WEB
+
+---
+
+- [Web](https://github.com/liarreez/Tech-Interview-Conquer/blob/main/Web/Web.md)
+- [HTTP vs HTTPS](https://github.com/liarreez/Tech-Interview-Conquer/blob/main/Web/HTTP%20vs%20HTTPS.md)
+- [REST API](https://github.com/liarreez/Tech-Interview-Conquer/blob/main/Web/REST%20API.md)
+- [Web Server](https://github.com/liarreez/Tech-Interview-Conquer/blob/main/Web/Web%20Server%20vs%20WAS.md)
+- [Axios & Fetch](https://github.com/liarreez/Tech-Interview-Conquer/blob/main/Web/Axios%20vs%20Fetch.md)
+- [웹 브라우저 렌더링](https://github.com/liarreez/Tech-Interview-Conquer/blob/main/Web/%EC%9B%B9%20%EB%B8%8C%EB%9D%BC%EC%9A%B0%EC%A0%80%20%EB%A0%8C%EB%8D%94%EB%A7%81%20%EA%B3%BC%EC%A0%95.md)
+- [SPA vs CSR vs SSR](https://github.com/liarreez/Tech-Interview-Conquer/blob/main/Web/SPA%20vs%20CSR%20vs%20SSR.md)
+- [SSG vs ISR](https://github.com/liarreez/Tech-Interview-Conquer/blob/main/Web/SSG%20vs%20ISR.md)
+- [웹 표준 & 웹 접근성](https://github.com/liarreez/Tech-Interview-Conquer/blob/main/Web/Web%20Standard%20%26%20Web%20Accessibility.md)
+- [WEB 1.0/2.0/3.0](https://github.com/liarreez/Tech-Interview-Conquer/blob/main/Web/Web1.0%20vs%20Web2.0%20vs%20Web3.0.md)
+- [쿠키 vs 세션 vs 토큰](https://github.com/liarreez/Tech-Interview-Conquer/blob/main/Web/Cookie%20vs%20Session%20vs%20Token)
+- [OAuth](https://github.com/liarreez/Tech-Interview-Conquer/blob/main/Web/OAuth.md)
+- [메세지 큐](https://github.com/liarreez/Tech-Interview-Conquer/blob/main/Web/Message%20Queue.md)
+
+<br>
+
+### Cloud
+
+---
+
+- [IaaS & PaaS & SaaS](https://github.com/liarreez/Tech-Interview-Conquer/blob/main/Cloud/IaaS%2C%20PaaS%2C%20SaaS.md)
+- [Docker](https://github.com/liarreez/Tech-Interview-Conquer/blob/main/Cloud/Docker.md)
+- [쿠버네티스](https://github.com/liarreez/Tech-Interview-Conquer/blob/main/Cloud/%EC%BF%A0%EB%B2%84%EB%84%A4%ED%8B%B0%EC%8A%A4.md)
+
+<br>
+
+### AI
+
+---
+
+- [RAG](https://github.com/liarreez/Tech-Interview-Conquer/blob/main/AI/RAG.md)
+
+### API
+
+---
+
+- [API 개념](https://github.com/liarreez/Tech-Interview-Conquer/blob/main/API/API.md)
+- [API 구현 방식](https://github.com/liarreez/Tech-Interview-Conquer/blob/main/API/SOAP.md)
+
+<br>
+
+### 디자인 패턴
+
+---
+
+- [디자인 패턴의 종류](https://github.com/liarreez/Tech-Interview-Conquer/blob/main/Language/Java/%EB%94%94%EC%9E%90%EC%9D%B8%ED%8C%A8%ED%84%B4.md)
+- [MVC 패턴](https://github.com/liarreez/Tech-Interview-Conquer/blob/main/Design%20Pattern/MVC%20Pattern.md)
+- [옵저버 패턴](https://github.com/liarreez/Tech-Interview-Conquer/blob/main/Design%20Pattern/Observer%20Pattern.md)
+
+<br>
+
+### GIT
+
+---
+
+- [Git branch](https://github.com/liarreez/Tech-Interview-Conquer/blob/main/Git/Git%20branch.md)
+- [Merge](https://github.com/liarreez/Tech-Interview-Conquer/blob/main/Git/Merge.md)
+- [Git Fork](https://github.com/liarreez/Tech-Interview-Conquer/blob/main/Git/Git%20fork.md)
