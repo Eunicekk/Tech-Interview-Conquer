@@ -265,7 +265,7 @@ ex) 2024-12-01 [Programming Language] Interpreted Language vs Compiled Language 
 - [SSG vs ISR](https://github.com/liarreez/Tech-Interview-Conquer/blob/main/Web/SSG%20vs%20ISR.md)
 - [웹 표준 & 웹 접근성](https://github.com/liarreez/Tech-Interview-Conquer/blob/main/Web/Web%20Standard%20%26%20Web%20Accessibility.md)
 - [WEB 1.0/2.0/3.0](https://github.com/liarreez/Tech-Interview-Conquer/blob/main/Web/Web1.0%20vs%20Web2.0%20vs%20Web3.0.md)
-- [쿠키 vs 세션 vs 토큰](https://github.com/liarreez/Tech-Interview-Conquer/blob/main/Web/Cookie%20vs%20Session%20vs%20Token)
+- [쿠키 vs 세션 vs 토큰](https://github.com/liarreez/Tech-Interview-Conquer/blob/main/Web/Cookie%20vs%20Session%20vs%20Token.md)
 - [OAuth](https://github.com/liarreez/Tech-Interview-Conquer/blob/main/Web/OAuth.md)
 - [메세지 큐](https://github.com/liarreez/Tech-Interview-Conquer/blob/main/Web/Message%20Queue.md)
 
