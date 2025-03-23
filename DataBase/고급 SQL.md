@@ -4,19 +4,34 @@
 
 ## 5.1 프로그래밍 언어에서 SQL 접근
 
+### 범용 언어와 SQL의 결합이 필요한 이유
 SQL로 질의를 작성하는 것이 일반적으로 훨씬 쉽다. 하지만, 
 
-1. 모든 질의를 다 표현할수 없다는 점
-2. SQL로는 지원할 수 없는 비선언적 동작들이 존재한다.
+1. **SQL로 표현 불가능한 질의**: SQL은 강력한 선언적 언어이지만, 모든 논리를 커버하지 못할 수 있음.
+2. **비선언적 기능 필요**: 예컨대, 사용자 인터페이스와 상호 작용하거나, 보고서를 출력하는 등의 작업은 SQL만으로는 부족함.
 
 따라서, 범용 프로그래밍 언어와 SQL을 결합하기 위한 방법이 있는데 다음과 같다.
 
-- 동적 SQL : 프로그램이 실행 중에 문자열로 SQL 질의를 만들어 제출하고, 한 번에 하나의 튜플씩 결과를 가져올 수 있도록 한다.
-ex) JDBC, ODBC
-- 내장 SQL: 동적 SQL처럼 프로그램이 DB서버와 소통할 수 있는 수단을 제공한다. 
-전처리기를 사용해서 SQL문을 컴파일시에 식별한다. 
-→ 전처리기는 내장 SQL로 표현된 요청을 함수 요청으로 변환한다. 
-→ 실행할 때 함수 호출은 동적 SQL 기능을 제공하는 API를 통해서 DB에 연결된다.
+- 동적 SQL
+  - **개념**: 프로그램이 실행 중에 문자열 형태의 SQL 문을 생성하여 DB에 보내고, 결과를 한 튜플씩 처리할 수 있도록 해줌.
+  - **예시**:
+      - **JDBC (Java Database Connectivity)**
+          - Java에서 DB 연결: `DriverManager.getConnection(...)`
+          - SQL 실행: `Statement`/`PreparedStatement` → `executeQuery()` 또는 `executeUpdate()`
+          - 결과 처리: `ResultSet` 객체를 이용해 튜플 순회
+          - **준비된 문(PreparedStatement)** 사용 시 보안(SQL Injection 방지) 및 성능 향상.
+      - **ODBC (Open Database Connectivity)**
+          - C/C++ 같은 언어에서 DB 연결과 SQL 실행을 위한 표준 API.
+          - `SQLConnect`, `SQLExecDirect`, `SQLFetch` 등 함수로 DB 접근.
+      - **Python DB API**
+          - 예: `psycopg2`(PostgreSQL), `mysql-connector-python`(MySQL) 등.
+          - `connect()`, `cursor()`, `execute()`, `fetchall()` 등의 함수로 동작. 
+  
+- 내장 SQL로
+  - **개념**: C, C++, Java 등 호스트 언어 코드 안에 직접 `EXEC SQL ...;` 문장으로 SQL을 삽입(“임베디드”)하는 방식.
+  - **동작**: 전처리기(preprocessor)가 임베디드 SQL을 호스트 언어의 함수 호출 형태로 변환 → 이후 컴파일.
+  - **커서(cursor)** 사용: 여러 튜플을 순회하며 결과를 한 튜플씩 처리 가능.
+  - **최근 추세**: 보통은 동적 SQL(JDBC, ODBC 등)을 선호하는 경향이 있지만, 특정 환경에선 내장 SQL이 여전히 쓰임.
 
 ## 5.2 함수와 프로시저
 
@@ -76,13 +91,15 @@ SQL은 범용 프로그래밍 언어의 거의 같은 기능을 가진 다양한
 
 이러한 구조를 다루는 SQL 표준의 일부분을 **영구 저장 모듈(PSM)**이라고 부른다.
 
-변수는 **declare**를 통해 선언되고, 값의 할당은 **set**을 통해 수행된다.
-
-복합문은 **begin ... end의** 형태를 가진다.
-
-즉, begin ... end 사이에 다수의 SQL 구문을 포함할 수 있다.
-
-begin ... end의 형태의 중문은 그 안에서 수행되는 모든 문장이 단일 트랜잭션으로 수행되도록 한다.
+- **변수 선언**: `declare`, **할당**: `set`
+- **블록**: `begin ... end`
+    - `begin atomic ... end` 를 사용하면 해당 블록 전체가 하나의 트랜잭션 단위로 처리.
+- **흐름 제어**:
+    - `if ~ then ~ else ~ end if`
+    - `while ~ end while`
+    - `repeat ~ until ~ end repeat`
+    - `for r as ... do ... end for`
+- **예외 처리**: `signal`, `handler`를 정의해 예외 발생 시 특별 동작 가능.
 
 ## 5.3 트리거
 
@@ -207,49 +224,14 @@ pivot절 안에 있는 for 절은
 
 SQL은 **cube와 rollup** 연산을 사용하여 group by 연산자의 일반화를 제공한다.
 
-cube와 rollup은 다수의 group by 질의가 단일 질의에서 수행되고 결과도 단일 릴레이션으로 반환되도록 해준다.
-
-- rollup
-    - 여러 **계층**(Hierarchy)으로 구성된 열을 기준으로, **단계별 그룹화**(부분 합계, 전체 합계 등)를 자동으로 계산해준다.
-    
-    ```sql
-    SELECT region, product, SUM(sales) AS total_sales
-    FROM sales_data
-    GROUP BY ROLLUP(region, product);
-    ```
-    
-    - **결과 예시**
-        
-        
-        | region  | product | total_sales                         |
-        | ------- | ------- | ----------------------------------- |
-        | Asia    | Phone   | 10,000                              |
-        | Asia    | TV      | 5,000                               |
-        | Asia    | NULL    | 15,000  ← (Asia 지역 전체 합)       |
-        | America | Phone   | 8,000                               |
-        | America | TV      | 4,000                               |
-        | America | NULL    | 12,000  ← (America 지역 전체 합)    |
-        | NULL    | NULL    | 27,000  ← (모든 지역, 모든 제품 합) |
-- cube
-    - **든 조합**에 대한 그룹화 결과(부분 합계)를 한꺼번에 구한다.
-    
-    ```sql
-    SELECT region, product, SUM(sales) AS total_sales
-    FROM sales_data
-    GROUP BY CUBE(region, product);
-    ```
-    
-    - **결과 예시**
-        
-        
-        | region  | product | total_sales                      |
-        | ------- | ------- | -------------------------------- |
-        | Asia    | Phone   | 10,000                           |
-        | Asia    | TV      | 5,000                            |
-        | Asia    | NULL    | 15,000  ← (Asia 지역 전체 합)    |
-        | America | Phone   | 8,000                            |
-        | America | TV      | 4,000                            |
-        | America | NULL    | 12,000  ← (America 지역 전체 합) |
-        | NULL    | Phone   | 18,000  ← (Phone 제품 전체 합)   |
-        | NULL    | TV      | 9,000  ← (TV 제품 전체 합)       |
-        | NULL    | NULL    | 27,000  ← (전체 합)              |
+- **rollup**:
+    - 지정된 컬럼들의 “접두사(prefix)” 부분집합에 대해 그룹화.
+    - 예: `group by rollup(item_name, color)` →
+        - (item_name, color), (item_name), () 총 3가지 그룹 결과를 한 번에 얻음.
+- **cube**:
+    - 지정된 컬럼들의 **모든 부분집합**에 대해 그룹화.
+    - 예: `group by cube(A, B)` → (A,B), (A), (B), () 4가지 그룹.
+- **grouping sets**:
+    - 필요한 부분집합만 명시적으로 지정 가능.
+- **grouping() 함수**:
+    - rollup/cube로 인해 생성된 NULL 값을 식별(일반 NULL과 구분).
