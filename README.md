@@ -73,6 +73,21 @@ ex) 2024-12-01 [Programming Language] Interpreted Language vs Compiled Language 
 - [대칭키, 비대칭키](https://github.com/liarreez/Tech-Interview-Conquer/blob/main/Question/Network/%EB%8C%80%EC%B9%AD%ED%82%A4%20vs%20%EB%B9%84%EB%8C%80%EC%B9%AD%ED%82%A4.md)
 - [세션 기반 인증, 토큰 기반 인증](https://github.com/liarreez/Tech-Interview-Conquer/blob/main/Question/Network/%EC%84%B8%EC%85%98%20%EA%B8%B0%EB%B0%98%20%EC%9D%B8%EC%A6%9D%20vs%20%ED%86%A0%ED%81%B0%20%EA%B8%B0%EB%B0%98%20%EC%9D%B8%EC%A6%9D.md)
 
+
+<br>
+
+### Web
+- [RESTful API](https://github.com/liarreez/Tech-Interview-Conquer/blob/main/Question/Web/RESRful%20API.md)
+- [HTTP 메서드](https://github.com/liarreez/Tech-Interview-Conquer/blob/main/Question/Web/HTTP%20Method.md)
+- [HTTP 상태 코드](https://github.com/liarreez/Tech-Interview-Conquer/blob/main/Question/Web/HTTP%20Status%20Code.md)
+- [웹소켓](https://github.com/liarreez/Tech-Interview-Conquer/blob/main/Question/Web/WebSocket.md)
+- [쿠키 vs 로컬 스토리지 vs 세션 스토리지](https://github.com/liarreez/Tech-Interview-Conquer/blob/main/Question/Web/Cookie%20vs%20LocalStorage%20vs%20SessionStorage.md)
+- [JWT](https://github.com/liarreez/Tech-Interview-Conquer/blob/main/Question/Web/JWT.md)
+- [XSS, CSRF](https://github.com/liarreez/Tech-Interview-Conquer/blob/main/Question/Web/XSS%20vs%20CSRF.md)
+- [OAuth](https://github.com/liarreez/Tech-Interview-Conquer/blob/main/Question/Web/OAuth.md)
+- [라이브러리, 프레임워크](https://github.com/liarreez/Tech-Interview-Conquer/blob/main/Question/Web/Library%20vs%20Framework.md)
+- [MSA](https://github.com/liarreez/Tech-Interview-Conquer/blob/main/Question/Web/MSA.md)
+
 <br>
 
 ## 📚 Reference
