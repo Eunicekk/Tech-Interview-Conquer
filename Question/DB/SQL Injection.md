@@ -1,4 +1,4 @@
-# CSR vs SSR
+# SQL Injection
 
 ---
 
