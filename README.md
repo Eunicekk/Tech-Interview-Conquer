@@ -98,6 +98,18 @@ ex) 2024-12-01 [Programming Language] Interpreted Language vs Compiled Language 
 
 <br>
 
+### DB
+- [RDBMS vs NoSQL](https://github.com/liarreez/Tech-Interview-Conquer/blob/main/Question/DB/RDBMS%20vs%20NoSQL.md)
+- [SELECT 쿼리 실행순서](https://github.com/liarreez/Tech-Interview-Conquer/blob/main/Question/DB/SELECT%20QUERY.md)
+- [Join](https://github.com/liarreez/Tech-Interview-Conquer/blob/main/Question/DB/Join.md)
+- [정규화](https://github.com/liarreez/Tech-Interview-Conquer/blob/main/Question/DB/Normalization.md)
+- [Index](https://github.com/liarreez/Tech-Interview-Conquer/blob/main/Question/DB/Index.md)
+- [트랜잭션](https://github.com/liarreez/Tech-Interview-Conquer/blob/main/Question/DB/Transaction.md)
+- [ORM](https://github.com/liarreez/Tech-Interview-Conquer/blob/main/Question/DB/ORM.md)
+- [SQL Injection](https://github.com/liarreez/Tech-Interview-Conquer/blob/main/Question/DB/SQL%20Injection.md)
+
+<br>
+
 ## 📚 Reference
 
 ### 운영체제    
