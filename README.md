@@ -66,12 +66,14 @@ ex) 2024-12-01 [Programming Language] Interpreted Language vs Compiled Language 
 - [OSI 7계층](https://github.com/liarreez/Tech-Interview-Conquer/blob/main/Question/Network/OSI%207Layer.md)
 - [TCP, UDP](https://github.com/liarreez/Tech-Interview-Conquer/blob/main/Question/Network/TCP%20vs%20UDP.md)
 - [HTTP, HTTPS](https://github.com/liarreez/Tech-Interview-Conquer/blob/main/Question/Network/HTTP%20vs%20HTTPS.md)
+- [HTTP 진화 과정](https://github.com/liarreez/Tech-Interview-Conquer/blob/main/Question/Network/HTTP%20%EC%A7%84%ED%99%94%20%EA%B3%BC%EC%A0%95.md)
 - [CORS](https://github.com/liarreez/Tech-Interview-Conquer/blob/main/Question/Network/CORS.md)
 - [IP 주소](https://github.com/liarreez/Tech-Interview-Conquer/blob/main/Question/Network/IP%20Address.md)
 - [공인IP, 사설IP](https://github.com/liarreez/Tech-Interview-Conquer/blob/main/Question/Network/Public%20IP%20vs%20Private%20IP.md)
 - [도메인 검색 프로세스](https://github.com/liarreez/Tech-Interview-Conquer/blob/main/Question/Network/%EB%8F%84%EB%A9%94%EC%9D%B8%20%EA%B2%80%EC%83%89%20%ED%94%84%EB%A1%9C%EC%84%B8%EC%8A%A4.md)
 - [대칭키, 비대칭키](https://github.com/liarreez/Tech-Interview-Conquer/blob/main/Question/Network/%EB%8C%80%EC%B9%AD%ED%82%A4%20vs%20%EB%B9%84%EB%8C%80%EC%B9%AD%ED%82%A4.md)
 - [세션 기반 인증, 토큰 기반 인증](https://github.com/liarreez/Tech-Interview-Conquer/blob/main/Question/Network/%EC%84%B8%EC%85%98%20%EA%B8%B0%EB%B0%98%20%EC%9D%B8%EC%A6%9D%20vs%20%ED%86%A0%ED%81%B0%20%EA%B8%B0%EB%B0%98%20%EC%9D%B8%EC%A6%9D.md)
+- [패킷 스니핑](https://github.com/liarreez/Tech-Interview-Conquer/blob/main/Question/Network/Packet%20Sniffing.md)
 
 
 <br>
@@ -107,6 +109,30 @@ ex) 2024-12-01 [Programming Language] Interpreted Language vs Compiled Language 
 - [트랜잭션](https://github.com/liarreez/Tech-Interview-Conquer/blob/main/Question/DB/Transaction.md)
 - [ORM](https://github.com/liarreez/Tech-Interview-Conquer/blob/main/Question/DB/ORM.md)
 - [SQL Injection](https://github.com/liarreez/Tech-Interview-Conquer/blob/main/Question/DB/SQL%20Injection.md)
+
+<br>
+
+### 언어 & 프레임워크
+#### Java & 프레임워크
+- [Java의 변수](https://github.com/liarreez/Tech-Interview-Conquer/blob/main/Question/Language%20%26%20Framework/%EB%B3%80%EC%88%98%20%EC%A2%85%EB%A5%98.md)
+- [Java의 접근제어자]
+- [추상클래스 vs 인터페이스](https://github.com/liarreez/Tech-Interview-Conquer/blob/main/Question/Language%20%26%20Framework/Abstract%20VS%20Interface.md)
+- [String vs StringBuilder vs StringBuffer](https://github.com/liarreez/Tech-Interview-Conquer/blob/main/Question/Language%20%26%20Framework/String%2C%20StringBuilder%2C%20StringBuffer.md)
+- [객체지향프로그래밍 4원칙](https://github.com/liarreez/Tech-Interview-Conquer/blob/main/Question/Language%20%26%20Framework/OOP.md)
+- [JDK, JRE, JVM](https://github.com/liarreez/Tech-Interview-Conquer/blob/main/Question/Language%20%26%20Framework/JDK%2C%20JRE%2C%20JVM.md)
+- [Java 가비지 컬렉션](https://github.com/liarreez/Tech-Interview-Conquer/blob/main/Question/Language%20%26%20Framework/Garbage%20Collection.md)
+- [Spring Boot vs Spring Framework](https://github.com/liarreez/Tech-Interview-Conquer/blob/main/Question/Language%20%26%20Framework/Spring%20Boot%20vs%20Spring%20Framework.md)
+- [Spring 핵심 철학](https://github.com/liarreez/Tech-Interview-Conquer/blob/main/Question/Language%20%26%20Framework/Spring%20Design%20Philosophy.md)
+- [Spring Bean 생명 주기](https://github.com/liarreez/Tech-Interview-Conquer/blob/main/Question/Language%20%26%20Framework/Spring%20Bean.md)
+- [Spring MVC 요청 흐름](https://github.com/liarreez/Tech-Interview-Conquer/blob/main/Question/Language%20%26%20Framework/Spring%20MVC%20%EC%9A%94%EC%B2%AD%20%ED%9D%90%EB%A6%84.md)
+
+<br>
+
+#### JavaScript & 프레임워크
+- [클로저](https://github.com/liarreez/Tech-Interview-Conquer/blob/main/Question/Language%20%26%20Framework/%ED%81%B4%EB%A1%9C%EC%A0%80.md)
+- [가비지 컬렉션 in JS](https://github.com/liarreez/Tech-Interview-Conquer/blob/main/Question/Language%20%26%20Framework/Garbage%20Collection%20in%20JS.md)
+- [React, Vue, Angular의 DI](https://github.com/liarreez/Tech-Interview-Conquer/blob/main/Question/Language%20%26%20Framework/React%20%26%20Vue%20%26%20Angular%20DI.md)
+- [React의 LifeCycle](https://github.com/liarreez/Tech-Interview-Conquer/blob/main/Question/Language%20%26%20Framework/React%EC%9D%98%20LifeCycle.md)
 
 <br>
 
@@ -209,8 +235,8 @@ ex) 2024-12-01 [Programming Language] Interpreted Language vs Compiled Language 
 - [페이징](https://github.com/liarreez/Tech-Interview-Conquer/blob/main/Operating%20System/Paging.md)
 - [TLB](https://github.com/liarreez/Tech-Interview-Conquer/blob/main/Operating%20System/vm-tlbs.md)
 - [더 작은 페이징 테이블](https://github.com/liarreez/Tech-Interview-Conquer/blob/main/Operating%20System/VM%20Smalltables.md)
-- [물리 메모리 크기 극복 - 메커니즘](https://github.com/liarreez/Tech-Interview-Conquer/blob/main/Operating%20System/%EB%AC%BC%EB%A6%AC%20%EB%A9%94%EB%AA%A8%EB%A6%AC%20%ED%81%AC%EA%B8%B0%EC%9D%98%20%EA%B7%B9%EB%B3%B5%3A%20%EB%A9%94%EC%BB%A4%EB%8B%88%EC%A6%98.md)
-- [물리 메모리 크기 극복 - 정책](https://github.com/liarreez/Tech-Interview-Conquer/blob/main/Operating%20System/%EB%AC%BC%EB%A6%AC%20%EB%A9%94%EB%AA%A8%EB%A6%AC%20%ED%81%AC%EA%B8%B0%EC%9D%98%20%EA%B7%B9%EB%B3%B5%3A%20%EC%A0%95%EC%B1%85.md)
+- [물리 메모리 크기 극복 - 메커니즘](https://github.com/liarreez/Tech-Interview-Conquer/blob/main/Operating%20System/%EB%AC%BC%EB%A6%AC%20%EB%A9%94%EB%AA%A8%EB%A6%AC%20%ED%81%AC%EA%B8%B0%EC%9D%98%20%EA%B7%B9%EB%B3%B5%20-%20%EB%A9%94%EC%BB%A4%EB%8B%88%EC%A6%98.md)
+- [물리 메모리 크기 극복 - 정책](https://github.com/liarreez/Tech-Interview-Conquer/blob/main/Operating%20System/%EB%AC%BC%EB%A6%AC%20%EB%A9%94%EB%AA%A8%EB%A6%AC%20%ED%81%AC%EA%B8%B0%EC%9D%98%20%EA%B7%B9%EB%B3%B5%20-%20%EC%A0%95%EC%B1%85.md)
 - [스레드](https://github.com/liarreez/Tech-Interview-Conquer/blob/main/Operating%20System/Threads.md)
 - [VAX&VMS](https://github.com/liarreez/Tech-Interview-Conquer/blob/main/Operating%20System/VAX%26VMS%20Virtual%20Memory%20System.md)
 - [스레드 API & 락](https://github.com/liarreez/Tech-Interview-Conquer/blob/main/Operating%20System/Threads%20api%2C%20locks.md)
@@ -304,6 +330,17 @@ ex) 2024-12-01 [Programming Language] Interpreted Language vs Compiled Language 
 
 - [DBMS 종류](https://github.com/liarreez/Tech-Interview-Conquer/blob/main/DataBase/DBMS%EC%9D%98%20%EC%A2%85%EB%A5%98.md)
 - [샤딩](https://github.com/liarreez/Tech-Interview-Conquer/blob/main/DataBase/Sharding.md)
+- [관계형 모델](https://github.com/liarreez/Tech-Interview-Conquer/blob/main/DataBase/%EA%B4%80%EA%B3%84%ED%98%95%20%EB%AA%A8%EB%8D%B8.md)
+- [SQL](https://github.com/liarreez/Tech-Interview-Conquer/blob/main/DataBase/SQL%EC%86%8C%EA%B0%9C.md)
+- [중급 SQL](https://github.com/liarreez/Tech-Interview-Conquer/blob/main/DataBase/%EC%A4%91%EA%B8%89%20SQL.md)
+- [고급 SQL](https://github.com/liarreez/Tech-Interview-Conquer/blob/main/DataBase/%EA%B3%A0%EA%B8%89%20SQL.md)
+- [E-R모델 데이터베이스 설계](https://github.com/liarreez/Tech-Interview-Conquer/blob/main/DataBase/E-R%20%EB%AA%A8%EB%8D%B8%EC%9D%84%20%EC%82%AC%EC%9A%A9%ED%95%9C%20%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4%20%EC%84%A4%EA%B3%84.md)
+- [관계형 데이터베이스 설계](https://github.com/liarreez/Tech-Interview-Conquer/blob/main/DataBase/%EA%B4%80%EA%B3%84%ED%98%95%20%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4%20%EC%84%A4%EA%B3%84.md)
+- [복합 데이터 타입](https://github.com/liarreez/Tech-Interview-Conquer/blob/main/DataBase/%EB%B3%B5%ED%95%A9%20%EB%8D%B0%EC%9D%B4%ED%84%B0%20%ED%83%80%EC%9E%85.md)
+- [응용 프로그램의 개발](https://github.com/liarreez/Tech-Interview-Conquer/blob/main/DataBase/%EC%9D%91%EC%9A%A9%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%A8%EC%9D%98%20%EA%B0%9C%EB%B0%9C.md)
+- [물리적 저장 장치 시스템](https://github.com/liarreez/Tech-Interview-Conquer/blob/main/DataBase/%EB%AC%BC%EB%A6%AC%EC%A0%81%20%EC%A0%80%EC%9E%A5%20%EC%9E%A5%EC%B9%98%20%EC%8B%9C%EC%8A%A4%ED%85%9C.md)
+- [데이터 저장 장치 구조](https://github.com/liarreez/Tech-Interview-Conquer/blob/main/DataBase/%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EC%A0%80%EC%9E%A5%20%EC%9E%A5%EC%B9%98%20%EA%B5%AC%EC%A1%B0.md)
+- [인덱싱](https://github.com/liarreez/Tech-Interview-Conquer/blob/main/DataBase/%EC%9D%B8%EB%8D%B1%EC%8B%B1.md)
 
 <br>
 
