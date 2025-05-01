@@ -115,7 +115,7 @@ ex) 2024-12-01 [Programming Language] Interpreted Language vs Compiled Language 
 ### 언어 & 프레임워크
 #### Java & 프레임워크
 - [Java의 변수](https://github.com/liarreez/Tech-Interview-Conquer/blob/main/Question/Language%20%26%20Framework/%EB%B3%80%EC%88%98%20%EC%A2%85%EB%A5%98.md)
-- [Java의 접근제어자]
+- [Java의 접근제어자](https://github.com/liarreez/Tech-Interview-Conquer/blob/main/Question/Language%20%26%20Framework/Java%EC%9D%98%20%EC%A0%91%EA%B7%BC%20%EC%A0%9C%EC%96%B4%EC%9E%90.md)
 - [추상클래스 vs 인터페이스](https://github.com/liarreez/Tech-Interview-Conquer/blob/main/Question/Language%20%26%20Framework/Abstract%20VS%20Interface.md)
 - [String vs StringBuilder vs StringBuffer](https://github.com/liarreez/Tech-Interview-Conquer/blob/main/Question/Language%20%26%20Framework/String%2C%20StringBuilder%2C%20StringBuffer.md)
 - [객체지향프로그래밍 4원칙](https://github.com/liarreez/Tech-Interview-Conquer/blob/main/Question/Language%20%26%20Framework/OOP.md)
