@@ -50,6 +50,7 @@ ex) 2024-12-01 [Programming Language] Interpreted Language vs Compiled Language 
 ---
 
 ### 운영체제
+- [운영체제](https://github.com/liarreez/Tech-Interview-Conquer/blob/main/Question/Operating%20System/Operating%20System.md)
 - [프로그램, 프로세스, 스레드](https://github.com/liarreez/Tech-Interview-Conquer/blob/main/Question/Operating%20System/Program%20vs%20Process%20vs%20Thread.md)
 - [사용자 모드, 커널 모드](https://github.com/liarreez/Tech-Interview-Conquer/blob/main/Question/Operating%20System/User%20Mode%20vs%20Kernel%20Mode.md)
 - [동기, 비동기](https://github.com/liarreez/Tech-Interview-Conquer/blob/main/Question/Operating%20System/Synchronous%20vs%20Asynchronous.md)
@@ -117,6 +118,7 @@ ex) 2024-12-01 [Programming Language] Interpreted Language vs Compiled Language 
 - [Java의 변수](https://github.com/liarreez/Tech-Interview-Conquer/blob/main/Question/Language%20%26%20Framework/%EB%B3%80%EC%88%98%20%EC%A2%85%EB%A5%98.md)
 - [Java의 접근제어자](https://github.com/liarreez/Tech-Interview-Conquer/blob/main/Question/Language%20%26%20Framework/Java%EC%9D%98%20%EC%A0%91%EA%B7%BC%20%EC%A0%9C%EC%96%B4%EC%9E%90.md)
 - [추상클래스 vs 인터페이스](https://github.com/liarreez/Tech-Interview-Conquer/blob/main/Question/Language%20%26%20Framework/Abstract%20VS%20Interface.md)
+- [==, equals()](https://github.com/liarreez/Tech-Interview-Conquer/blob/main/Question/Language%20%26%20Framework/%EB%8F%99%EC%9D%BC%EC%84%B1%2C%20%EB%8F%99%EB%93%B1%EC%84%B1.md)
 - [String vs StringBuilder vs StringBuffer](https://github.com/liarreez/Tech-Interview-Conquer/blob/main/Question/Language%20%26%20Framework/String%2C%20StringBuilder%2C%20StringBuffer.md)
 - [객체지향프로그래밍 4원칙](https://github.com/liarreez/Tech-Interview-Conquer/blob/main/Question/Language%20%26%20Framework/OOP.md)
 - [JDK, JRE, JVM](https://github.com/liarreez/Tech-Interview-Conquer/blob/main/Question/Language%20%26%20Framework/JDK%2C%20JRE%2C%20JVM.md)
@@ -341,7 +343,10 @@ ex) 2024-12-01 [Programming Language] Interpreted Language vs Compiled Language 
 - [물리적 저장 장치 시스템](https://github.com/liarreez/Tech-Interview-Conquer/blob/main/DataBase/%EB%AC%BC%EB%A6%AC%EC%A0%81%20%EC%A0%80%EC%9E%A5%20%EC%9E%A5%EC%B9%98%20%EC%8B%9C%EC%8A%A4%ED%85%9C.md)
 - [데이터 저장 장치 구조](https://github.com/liarreez/Tech-Interview-Conquer/blob/main/DataBase/%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EC%A0%80%EC%9E%A5%20%EC%9E%A5%EC%B9%98%20%EA%B5%AC%EC%A1%B0.md)
 - [인덱싱](https://github.com/liarreez/Tech-Interview-Conquer/blob/main/DataBase/%EC%9D%B8%EB%8D%B1%EC%8B%B1.md)
-
+- [질의 처리](https://github.com/liarreez/Tech-Interview-Conquer/blob/main/DataBase/%EC%A7%88%EC%9D%98%20%EC%B2%98%EB%A6%AC.md)
+- [질의 최적화](https://github.com/liarreez/Tech-Interview-Conquer/blob/main/DataBase/%EC%A7%88%EC%9D%98%20%EC%B5%9C%EC%A0%81%ED%99%94.md)
+- [트랜잭션](https://github.com/liarreez/Tech-Interview-Conquer/blob/main/DataBase/%ED%8A%B8%EB%9E%9C%EC%9E%AD%EC%85%98.md)
+- [동시성 제어](https://github.com/liarreez/Tech-Interview-Conquer/blob/main/DataBase/%EB%8F%99%EC%8B%9C%EC%84%B1%20%EC%A0%9C%EC%96%B4.md)
 <br>
 
 ### WEB
