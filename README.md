@@ -108,6 +108,8 @@ ex) 2024-12-01 [Programming Language] Interpreted Language vs Compiled Language 
 - [정규화](https://github.com/liarreez/Tech-Interview-Conquer/blob/main/Question/DB/Normalization.md)
 - [Index](https://github.com/liarreez/Tech-Interview-Conquer/blob/main/Question/DB/Index.md)
 - [트랜잭션](https://github.com/liarreez/Tech-Interview-Conquer/blob/main/Question/DB/Transaction.md)
+- [락](https://github.com/liarreez/Tech-Interview-Conquer/blob/main/Question/DB/Lock.md)
+- [동시성](https://github.com/liarreez/Tech-Interview-Conquer/blob/main/Question/DB/Concurrency.md)
 - [ORM](https://github.com/liarreez/Tech-Interview-Conquer/blob/main/Question/DB/ORM.md)
 - [SQL Injection](https://github.com/liarreez/Tech-Interview-Conquer/blob/main/Question/DB/SQL%20Injection.md)
 
